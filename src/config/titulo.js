@@ -1,1 +1,2 @@
-module.exports = 'NOMBRE DEL COMPONENTE FORMATIVO'
+module.exports =
+  'Protocolos, políticas y evaluación de la atención y servicio al cliente'

@@ -1,9 +1,11 @@
 export default {
   global: {
-    componenteFormativo: 'NOMBRE DEL COMPONENTE FORMATIVO',
-    descripcionCurso: 'BREVE DESCRIPCIÓN',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
-    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
+    componenteFormativo:
+      'Protocolos, políticas y evaluación de la atención y servicio al cliente',
+    descripcionCurso:
+      'Las actividades diseñadas en este componente de formación permiten identificar y conocer los protocolos, políticas y evaluación de la atención y servicio al cliente. Para su desarrollo y apropiación, se estudiará el manual de funciones y procedimientos, servicio, ciclo del servicio, confidencialidad de la información, PQRSDF, evaluación del servicio, factores claves y trazabilidad del servicio.',
+    imagenBannerPrincipal: '',
+    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.svg'),
   },
   menuPrincipal: {
     menu: [
@@ -22,30 +24,57 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Manual de funciones y procedimientos',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.1',
-            titulo: 'Titulo de segundo nivel',
-            hash: 't_1_1',
-          },
-        ],
       },
-
       {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Servicio',
         desarrolloContenidos: true,
+        subMenu: [],
       },
       {
         nombreRuta: 'tema3',
         icono: 'far fa-file-alt',
         numero: '3',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Ciclo del servicio',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema4',
+        icono: 'far fa-file-alt',
+        numero: '4',
+        titulo: 'Confidencialidad de la información',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema5',
+        icono: 'far fa-file-alt',
+        numero: '5',
+        titulo: 'PQRSDF',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema6',
+        icono: 'far fa-file-alt',
+        numero: '6',
+        titulo: 'Clientes',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema7',
+        icono: 'far fa-file-alt',
+        numero: '7',
+        titulo: 'Factores claves',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema8',
+        icono: 'far fa-file-alt',
+        numero: '8',
+        titulo: 'Trazabilidad del servicio',
         desarrolloContenidos: true,
       },
     ],
@@ -91,33 +120,58 @@ export default {
   referencias: [
     {
       referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA:',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'Carrasco Fernández, S. (2019). Atención al cliente en el proceso comercial. Ediciones Paraninfo, SA.',
+      link: '',
+    },
+    {
+      referencia:
+        "Feldman, L. B., Cunha, I. C. K. O., & D'Innocenzo, M. (2013). La validación de los criterios del proceso de evaluación del servicio de enfermería hospitalario1. Revista Latino-Americana de Enfermagem, 21, 841-850.",
+      link: '',
+    },
+    {
+      referencia:
+        'Normas ISO/ FDIS 9000:2000(E). Sistema de Gestión de la Calidad. Fundamentos y Vocabulario.',
+      link: '',
+    },
+    {
+      referencia:
+        'Ochoa Gallo, A. (2018). Métodos para contribuir a la mejora continua del proceso logístico de atención al cliente. Caso empresarial de Yanbal Sede Medellín.',
+      link: '',
+    },
+    {
+      referencia:
+        'Real Academia Española: Diccionario de la lengua española, 23.ª ed., [versión 23.4 en línea]. <https://dle.rae.es> [julio de 2021].',
+      link: '',
+    },
+    {
+      referencia:
+        'Ruiz-Canela López J. (2004). La Gestión por la Calidad Total en la empresa moderna.',
+      link: '',
     },
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Definición',
+      termino: 'Confidencialidad',
+      significado:
+        'Acuerdo del cliente con la empresa acerca de cómo se manejará, administrará y difundirá la información privada, ya sea de la compra, datos personales o de identificación, entre otros.',
     },
     {
-      termino: '<em>Término</em>',
-      significado: 'Definición',
+      termino: 'PQRSDF',
+      significado:
+        'Herramientas que permite desarrollar protocolos que ayudan a dar solución de forma ordenada a los inconvenientes que un cliente o persona pueda tener con respecto a los productos o servicios de una empresa e institución.',
+    },
+    {
+      termino: 'Servicio',
+      significado:
+        'Serie de actividades llevadas a cabo por un proveedor con el propósito de satisfacer una determinada necesidad del cliente, sus características básicas son la intangibilidad, la heterogeneidad, la inseparabilidad y el carácter perecedero.',
+    },
+    {
+      termino: 'Trazabilidad',
+      significado:
+        'Procedimientos preestablecidos y autosuficientes que permiten conocer el histórico, la ubicación y la trayectoria de un producto o lote de productos a lo largo de la cadena de suministros en un momento dado, a través de herramientas determinadas.',
     },
   ],
-  complementario: [
-    {
-      texto: 'Nombre del material',
-      tipo: 'tipo',
-      link: 'https://www.google.com/',
-    },
-    {
-      texto: 'Nombre del material',
-      tipo: 'tipo',
-      descarga: '/downloads/prueba.pdf',
-    },
-  ],
+  complementario: [],
   creditos: {
     liderEquipo: [
       {
@@ -147,25 +201,67 @@ export default {
         centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
-        nombre: 'Nombre',
+        nombre: '',
         cargo: 'Diseño web',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Carmen Alicia Martínez Torres',
         cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Erika Viviana Sandoval Rojas',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Gilberto Junior Rodríguez Rodríguez',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Jaime Enrique Díaz Reyes',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Lady Adriana Ariza Luque',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Miguel Guerrero Gutiérrez',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Wilson Andrés Arenales Cáceres',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Zuleidy María Ruíz Torres',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Luis Jesús Pérez Madariaga',
         cargo: 'Desarrollo Front-End',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: '',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',

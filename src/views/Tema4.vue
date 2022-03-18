@@ -1,0 +1,169 @@
+<template lang="pug">
+.curso-main-container.pb-3
+  BannerInterno
+  .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
+    .titulo-principal.color-acento-contenido
+      .titulo-principal__numero
+        span 4
+      h1 Confidencialidad de la información
+
+    .row
+      .col-md-6.mb-2
+        img(src="@/assets/curso/temas/tema4/1.png" data-aos="fade-left")
+      .col-md-6(style="place-self:center;")
+        p(data-aos="fade-right") Los avances tecnológicos en el mundo han permitido que hoy en día las empresas y los clientes estén cada vez más interconectados digitalmente, y es aquí donde la confidencialidad de la información es una de las situaciones que más preocupa a las empresas. Es por esta razón, que deben existir guías de acción bien definidas en las empresas que permitan saber que uso dar a cierta información. 
+        p.mt-4(data-aos="fade-right") Por parte de la empresa, estos acuerdos de protección de información pueden estar obligados a guardar información sobre procesos técnicos, comerciales y de fabricación de los productos, con el objetivo de evitar la divulgación o uso indebido de la información y que pueda causar un prejuicio a la empresa. 
+
+    p.mt-5(data-aos="fade-up") Su principal finalidad recae en primer lugar, definir la información que se puede compartir y cual tendrá características de confidencialidad, en segundo lugar, proteger la información técnica o confidencial que no se pueda compartir con las partes intervenidas, y en tercer lugar, evitar pérdidas de propiedad intelectual.
+    .row.mt-5.p-4(style="background-color:#A4A3FF;")
+      .col-md-2.col-sm-3.justify-content-center.text-center
+        img(src="@/assets/curso/temas/tema4/2.png" data-aos="fade-left" style="max-width:110px;display:inline;")
+      .col-md-10.col-sm-9(style="place-self:center;")
+        p(data-aos="fade-right") Cuando se habla de confidencialidad, se hace referencia al acuerdo del cliente con la empresa acerca de cómo se manejará, administrará y difundirá la información privada, ya sea de la compra, datos personales o de identificación, entre otros. Todo esto se debe manejar desde la óptica de la ética empresarial.
+
+    h5.mt-5(data-aos="fade-up") La ética empresarial 
+    p(data-aos="fade-up") Es el estudio sobre cómo una empresa debe actuar frente a situaciones o dilemas éticos controvertidos y por esta razón cada empresa debe contar y desarrollar un manual de buenas prácticas. Estos comportamientos empresariales pueden enfocarse en: 
+
+    ol.lista-ol--cuadro.lista-ol--separador.mt-5
+        li(data-aos="fade-up") 
+          .lista-ol--cuadro__vineta
+            span 1
+          | Priorizar las necesidades del cliente primero. 
+        li(data-aos="fade-up") 
+          .lista-ol--cuadro__vineta
+            span 2
+          | Transparencia y comunicación clara. 
+        li(data-aos="fade-up") 
+          .lista-ol--cuadro__vineta
+            span 3
+          | La diversidad en el lugar de trabajo debe ser primordial. 
+        li(data-aos="fade-up") 
+          .lista-ol--cuadro__vineta
+            span 4
+          | La información del cliente se debe respetar y mantener intacta.  
+        li(data-aos="fade-up") 
+          .lista-ol--cuadro__vineta
+            span 5
+          | Se deben establecer y facilitar recursos de información para detectar comportamientos poco éticos. 
+
+    p.mt-5(data-aos="fade-up") Por otra parte, se encontrarán los componentes principales que conforman la ética empresarial:
+
+    SlyderF.mt-5(columnas="col-lg-6 col-xl-4 col-md-4")
+      .tarjeta.color-acento-botones.p-5(style="background-color:#FADE9F;border-radius:0px;min-height:450px;")
+        .row.justify-content-center.text-center
+          img(src='@/assets/curso/temas/tema4/3.png' alt='' style="max-width:150px;display:inline;")
+        h5.mt-5 Integridad
+        p Se debe ser transparente y honesto en todas las acciones y comunicaciones. 
+      .tarjeta.color-acento-botones.p-5(style="background-color:#A3A5F9;border-radius:0px;min-height:450px;")
+        .row.justify-content-center.text-center
+          img(src='@/assets/curso/temas/tema4/4.png' alt='' style="max-width:150px;display:inline;")
+        h5.mt-5 Respeto
+        p Se debe mostrar respeto por los empleados y clientes, así como cumplir con sus obligaciones. 
+      .tarjeta.color-acento-botones.p-5(style="background-color:#FADE9F;border-radius:0px;min-height:450px;")
+        .row.justify-content-center.text-center
+          img(src='@/assets/curso/temas/tema4/5.png' alt='' style="max-width:150px;display:inline;")
+        h5.mt-5 Justicia
+        p Se debe tratar a los clientes y empleados con sentido de equidad y justicia.
+      .tarjeta.color-acento-botones.p-5(style="background-color:#A3A5F9;border-radius:0px;min-height:450px;")
+        .row.justify-content-center.text-center
+          img(src='@/assets/curso/temas/tema4/7.png' alt='' style="max-width:150px;display:inline;")
+        h5.mt-5 Cuidado
+        p Se debe mostrar empatía hacia los empleados como herramienta valiosa para el cuidado de la empresa. 
+
+    h4.mt-5(data-aos="fade-up") Políticas de seguridad
+    p(data-aos="fade-up") Toda empresa que maneje información debe establecer políticas de seguridad y manejo de la misma. La información deberá estar siempre protegida sin importar la forma de ser compartida, comunicada o almacenada.
+    p.mt-4(data-aos="fade-up") Es importante tener presente, que la información puede existir de diversas formas: impresa o escrita en papel, de forma electrónica, por medio de correos electrónicos, mediante proyecciones o de forma oral en alguna conversación. Esta se debe proteger con el objetivo de evitar amenazas que afecten la continuidad del negocio, genere riesgos empresariales, o que no permitan maximizar las inversiones y oportunidades del negocio.
+
+    .tabla-a.color-acento-contenido.mt-5
+      table
+        thead
+          tr
+            th.h5(colspan="2") Confidencialidad, uso y manejo de datos personales en Colombia
+        tbody
+          tr
+            td.text-center Artículo 15. Constitución Política
+            td Todas las personas tienen derecho a su intimidad personal y familiar y a su buen nombre, y el Estado debe respetarlos y hacerlos respetar. De igual modo, tienen derecho a conocer, actualizar y rectificar las informaciones que se hayan recogido sobre ellas en bancos de datos y en archivos de entidades públicas y privadas.
+          tr
+            td.text-center Artículo 2º. Ley de 1266 de 2008 #[br] Ámbito de aplicación.
+            td La presente ley se aplica a todos los datos de información personal registrados en un banco de datos, sean estos administrados por entidades de naturaleza pública o privada.
+          tr
+            td.text-center Artículo 4º. Ley de 1266 de 2008 #[br] Principios de la administración de datos.
+            td En el desarrollo, interpretación y aplicación de la presente ley, se tendrán en cuenta, de manera armónica e integral.
+          tr
+            td.text-center Artículo 5º. Ley de 1266 de 2008 #[br] Circulación de información.
+            td La información personal recolectada o suministrada de conformidad con lo dispuesto en la ley a los operadores que haga parte del banco de datos que administra, podrá ser entregada de manera verbal, escrita, o puesta a disposición.
+          tr
+            td.text-center Artículo 6º. Ley de 1266 de 2008
+            td Derechos de los titulares de la información.
+          tr
+            td.text-center Artículo 7º. Ley de 1266 de 2008 #[br] Deberes de los operadores de los bancos de datos.
+            td Sin perjuicio del cumplimiento de las demás disposiciones contenidas en la presente ley y otras que rijan su actividad, los operadores de los bancos de datos.
+          tr
+            td.text-center Artículo 16. Ley de 1266 de 2008
+            td Peticiones, consultas y reclamos.
+          tr
+            td.text-center Artículo 4º. Ley de 1581 de 2013
+            td Principios para el Tratamiento de datos personales. En el desarrollo, interpretación y aplicación de la presente ley, se aplicarán, de manera armónica e integral.
+          tr
+            td.text-center Artículo 9º. Ley 1581 de 2013 #[br] Autorización del Titular.
+            td Sin perjuicio de las excepciones previstas en la ley, en el Tratamiento se requiere la autorización previa e informada del Titular, la cual deberá ser obtenida por cualquier medio que pueda ser objeto de consulta posterior.
+          tr
+            td.text-center Artículo 11. Ley de 1581 de 2013 #[br] Suministro de la información.
+            td La información solicitada podrá ser suministrada por cualquier medio, incluyendo los electrónicos, según lo requiera el Titular. La información deberá ser de fácil lectura, sin barreras técnicas que impidan su acceso y deberá corresponder en un todo a aquella que repose en la base de datos.
+          tr
+            td.text-center Artículo 12. Ley de 1581 de 2013 #[br] Deber de informar al Titular.
+            td El Responsable del Tratamiento, al momento de solicitar al Titular la autorización, deberá informarle de manera clara.
+          tr
+            td.text-center Artículo 14. Ley de 1581 de 2013 #[br] Consultas.
+            td Los Titulares o sus causahabientes podrán consultar la información personal del Titular que repose en cualquier base de datos, sea esta del sector público o privado. El Responsable del Tratamiento o Encargado del Tratamiento deberán suministrar a estos toda la información contenida en el registro individual o que esté vinculada con la identificación del Titular.
+          tr
+            td.text-center Artículo 17. Ley de 1581 de 2013 #[br] Deberes de los Responsables del Tratamiento.
+            td Los Responsables del Tratamiento deberán cumplir los siguientes deberes, sin perjuicio de las demás disposiciones previstas en la presente ley y en otras que rijan su actividad.
+          tr
+            td.text-center Artículo 4º. Decreto 1377 de 2013 #[br] Recolección de los datos personales
+            td En desarrollo de los principios de finalidad y libertad, la recolección de datos deberá limitarse a aquellos datos personales que son pertinentes y adecuados para la finalidad para la cual son recolectados o requeridos conforme a la normatividad vigente. Salvo en los casos expresamente previstos en la ley, no se podrán recolectar datos personales sin autorización del Titular.
+          tr
+            td.text-center Artículo 11. Decreto 1377 de 2013
+            td Limitaciones temporales al Tratamiento de los datos personales.
+          tr
+            td.text-center Artículo 23. Decreto 1377 de 2013 #[br] Medio para el ejercicio de derechos.
+            td Todo Responsable y Encargado deberá designar a una persona o área que asuma la función de protección de datos personales, que dará trámite a las solicitudes de los Titulares, para el ejercicio de los derechos a que se refiere la Ley 1581 de 2012 y el presente decreto.
+
+    .row.mt-5.p-4(style="background-color:#FFDE96;")
+      .col-md-2.col-sm-3.text-center(style="place-self:center;")
+        img(src="@/assets/curso/temas/tema4/6.png" data-aos="fade-left" style="display:inline;max-width:100px;")
+      .col-md-7.col-lg-7.col-sm-6(style="place-self:center;")
+        p(data-aos="fade-up") Para ampliar un poco más sobre la normativa, se puede consultar el siguiente documento: Normativa protección de datos personales en Colombia
+      .col-md-3.col-lg-3.col-sm-3.text-center(style="place-self:center;")
+        a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/NORMATIVA_PROTECCIÓN_DE_DATOS_PERSONALES.pdf')" target="_blank" type="application/pdf" data-aos="fade-up")
+          span Descargar
+          i.fas.fa-file-download
+
+
+
+</template>
+
+<script>
+export default {
+  name: 'Tema4',
+  data: () => ({
+    indicadorTarjetaSlide: true,
+  }),
+  mounted() {
+    this.$nextTick(() => {
+      this.$aosRefresh()
+    })
+  },
+  updated() {
+    this.$aosRefresh()
+  },
+}
+</script>
+<style lang="sass">
+.slyder-f__btn i
+  background-color: #A4A3FF
+  border-radius: 50%
+  color: white
+  font-size: 2rem
+  padding: 1rem 1.4rem 1rem 1.4rem
+</style>
