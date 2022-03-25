@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 6
-      h1 Clientes
+      h1 Evaluación del servicio
     
     p.mb-5(data-aos="fade-up") <b>La evaluación de la calidad del servicio cada día es más importante para las empresas, debido a que permiten conocer la opinión de los clientes sobre los diferentes atributos del servicio o producto que contribuyen a su satisfacción</b>. Se considera de suma importancia porque de esta dependerá el poder identificar aspectos positivos y negativos en la atención al cliente y la imagen corporativa. Una buena evaluación permitirá aumentar la satisfacción de los clientes y la fidelización, poder identificar puntos fuertes, críticos y de mejora que necesite la empresa. 
       br

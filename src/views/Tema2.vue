@@ -45,19 +45,19 @@
 
     .row.mt-5
       .col-lg-4.col-md-4.col-sm-6.mb-3
-        .p-5(style="background-color:#A4A3FF;border-radius:7px;height:100%;")
+        .p-4(style="background-color:#A4A3FF;border-radius:7px;height:100%;")
           figure
             img.m-auto(src="@/assets/curso/temas/tema2/5.png" data-aos="zoom-in" style="max-width:100px;")
           h5.mt-5(data-aos="fade-up") Intangibilidad
           p(data-aos="fade-up") Es una cualidad de los servicios donde nos indica que estos no se pueden contar, considerar, verificar o probar antes de hacer uso de ellos y poder verificar su calidad. 
       .col-lg-4.col-md-4.col-sm-6.mb-3
-        .p-5(style="background-color:#4B4AEF;border-radius:7px;height:100%;")
+        .p-4(style="background-color:#4B4AEF;border-radius:7px;height:100%;")
           figure
             img.m-auto(src="@/assets/curso/temas/tema2/6.png" data-aos="zoom-in" style="max-width:100px;")
           h5.mt-5.text-white(data-aos="fade-up") Heterogeneidad
           p.text-white(data-aos="fade-up") Son aquellos con gran contenido de trabajo humano, su desempeño puede variar según su proveedor, cliente o tiempo. Aquí el servicio personal es difícil de asegurar y a veces lo que la empresa quiere entregar, puede ser diferente a lo que el cliente recibe. 
       .col-lg-4.col-md-4.col-sm-6.mb-3
-        .p-5(style="background-color:#A4A3FF;border-radius:7px;height:100%;")
+        .p-4(style="background-color:#A4A3FF;border-radius:7px;height:100%;")
           figure
             img.m-auto(src="@/assets/curso/temas/tema2/7.png" data-aos="zoom-in" style="max-width:100px;")
           h5.mt-5(data-aos="fade-up") Inseparabilidad
@@ -89,8 +89,8 @@
           .indicador--hover(v-if="indicadorTarjetaFlip")
           .tarjeta-flip__contenedor
             .tarjeta-flip__img.p-5(style="background-color:#FFDE96;")
-              h5.mb-0(data-aos="zoom-in") Contacto con el cliente:
-              p(data-aos="zoom-in") Aquí el sistema de entra en contacto de forma física con el cliente.
+              h5.mb-0(data-aos="zoom-in") Contacto con el cliente
+              p(data-aos="zoom-in") Aquí el sistema entra en contacto de forma física con el cliente.
             .tarjeta-flip__contenido
               figure.text-center
                 img(src="@/assets/curso/temas/tema2/10.png")
@@ -122,7 +122,7 @@
 
     .tabla-a.color-acento-contenido.mt-4 
       table
-        caption(style="font-weight:400;") Nota: Datos tomados de Schmener (1986). 
+        caption(style="font-weight:400;") Nota: datos tomados de Schmener (1986)
         thead
           tr
             th.h5(colspan="4") Grado de interacción y adaptación
@@ -133,10 +133,10 @@
             td.text-center Alto
             td
               h5 Servicios en masa
-              p Bancos, escuelas, trenes
+              p Bancos, escuelas, trenes.
             td
               h5 Servicios profesionales
-              p Médicos, abogados, asesores
+              p Médicos, abogados, asesores.
           tr
             td.text-center Bajo
             td
