@@ -154,8 +154,8 @@
     .row.mt-5
       .col-md-6.mb-2
         h4(data-aos="fade-up") Triángulo del servicio
-        p(data-aos="fade-up") Es un esquema que integra los momentos clave de los negocios y pone al cliente como centro de la estrategia. Este fue creado pro Karl Albrecht en los años ochenta, su esquema integra momentos claves de un negocio para mejorar las experiencias con los clientes. Se concibe el servicio como un todo que, de forma de encadenamiento, este actúa alrededor del cliente. 
-        p.mt-4(data-aos="fade-up") Según Karl Albrecht, #[strong “La excelencia en el servicio se pude alcanzar mediante el Triángulo del servicio, en el cual se integra una estrategia bien concebida, es decir, se crea una filosofía del servicio que se imparte al personal adecuado, que es el que tiene contacto con el público y que opera sobre unos sistemas amables con el cliente”].
+        p(data-aos="fade-up") Es un esquema que integra los momentos clave de los negocios y pone al cliente como centro de la estrategia. Este fue creado por Karl Albrecht en los años ochenta, su esquema integra momentos claves de un negocio para mejorar las experiencias con los clientes. Se concibe el servicio como un todo que, de forma de encadenamiento, actúa alrededor del cliente. 
+        p.mt-4(data-aos="fade-up") Según Karl Albrecht, #[strong “La excelencia en el servicio se puede alcanzar mediante el triángulo del servicio, en el cual se integra una estrategia bien concebida, es decir, se crea una filosofía del servicio que se imparte al personal adecuado, que es el que tiene contacto con el público y que opera sobre unos sistemas amigables con el cliente”].
       .col-md-6
         img(src="@/assets/curso/temas/tema2/13.png" data-aos="fade-right")
 
@@ -170,26 +170,26 @@
       template(v-slot:imagen)
         figure
           img(src='@/assets/curso/temas/tema2/15.png', alt='')
-      .tarjeta.color-acento-botones.p-3(x="12%" y="38%" numero="01" style="background-color:#F6F6F6;border-radius:0px;")
+      .tarjeta.color-acento-botones.p-3(x="12%" y="38%" numero="06" style="background-color:#F6F6F6;border-radius:0px;")
         .h5.mb-2.mt-3 Colaboradores – Clientes
         p En este punto se le puede brindar una buena o mala experiencia al consumidor, debido a que es el punto de contacto y la relación más relevante del triángulo de servicio. 
-      .tarjeta.color-acento-botones.p-3(x="48%" y="19%" numero="02" style="background-color:#F6F6F6;border-radius:0px;")
+      .tarjeta.color-acento-botones.p-3(x="48%" y="19%" numero="01" style="background-color:#F6F6F6;border-radius:0px;")
         .h5.mb-2.mt-3 Compañia – Clientes
         p Busca generar confianza y fidelización a largo plazo a través de comunicar las estrategias de servicio a los clientes.
-      .tarjeta.color-acento-botones.p-3(x="86%" y="26%" numero="03" style="background-color:#F6F6F6;border-radius:0px;")
-        .h5.mb-2.mt-3 Compañia – Colaboradores
-        p Se debe generar confianza entre los colaboradores con el objetivo de impulsar el equipo de trabajo y crear relaciones solidas con los usuarios. Par poder lograrlo se debe generar bienestar y oportunidades a través de la capacitación, de esta forma afianzar el empoderamiento y motivación del equipo de trabajo.
-      .tarjeta.color-acento-botones.p-3(x="84%" y="76%" numero="04" style="background-color:#F6F6F6;border-radius:0px;")
-        .h5.mb-2.mt-3 Compañia – Sistemas
+      .tarjeta.color-acento-botones.p-3(x="86%" y="26%" numero="02" style="background-color:#F6F6F6;border-radius:0px;")
+        .h5.mb-2.mt-3 Compañía – Colaboradores
+        p Se debe generar confianza entre los colaboradores con el objetivo de impulsar el equipo de trabajo y crear relaciones sólidas con los usuarios. Para poder lograrlo se debe generar bienestar y oportunidades a través de la capacitación, y de esta forma afianzar el empoderamiento y motivación del equipo de trabajo.
+      .tarjeta.color-acento-botones.p-3(x="84%" y="76%" numero="03" style="background-color:#F6F6F6;border-radius:0px;")
+        .h5.mb-2.mt-3 Compañía – Sistemas
         p Eficiencia de la tecnología y los sistemas debe ser excelente para lograr satisfacer las necesidades y solucionar los problemas de los usuarios.
-      .tarjeta.color-acento-botones.p-3(x="48%" y="95%" numero="05" style="background-color:#F6F6F6;border-radius:0px;")
+      .tarjeta.color-acento-botones.p-3(x="48%" y="95%" numero="04" style="background-color:#F6F6F6;border-radius:0px;")
         .h5.mb-2.mt-3 Clientes – Sistemas
         p Los sistemas y servicios digitales deben ser eficientes y ofrecer al usuario una experiencia excelente. 
-      .tarjeta.color-acento-botones.p-3(x="12%" y="75%" numero="06" style="background-color:#F6F6F6;border-radius:0px;")
+      .tarjeta.color-acento-botones.p-3(x="12%" y="75%" numero="05" style="background-color:#F6F6F6;border-radius:0px;")
         .h5.mb-2.mt-3 Colaboradores – Sistemas
         p No se puede generar fricciones o asperezas con los colaboradores por culpa de sistemas y tecnologías que no se adapten a los procesos. Se deben elegir muy bien.
 
-    p.mt-5(data-aos="fade-up") Cada uno de los elementos mencionados anteriormente aportan a que el servicio se lleve acabo de manera óptima tanto para el cliente, como para el equipo que lo brinda vinculando las estrategias, los sistemas y los colaboradores.
+    p.mt-5(data-aos="fade-up") Cada uno de los elementos mencionados anteriormente aportan a que el servicio se lleve a cabo de manera óptima tanto para el cliente, como para el equipo que lo brinda vinculando las estrategias, los sistemas y los colaboradores.
 
 
 

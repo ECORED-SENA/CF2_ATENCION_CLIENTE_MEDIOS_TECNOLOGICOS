@@ -11,8 +11,8 @@
       .col-md-6.mb-2
         img(src="@/assets/curso/temas/tema4/1.png" data-aos="fade-left")
       .col-md-6(style="place-self:center;")
-        p(data-aos="fade-right") Los avances tecnológicos en el mundo han permitido que hoy en día las empresas y los clientes estén cada vez más interconectados digitalmente, y es aquí donde la confidencialidad de la información es una de las situaciones que más preocupa a las empresas. Es por esta razón, que deben existir guías de acción bien definidas en las empresas que permitan saber que uso dar a cierta información. 
-        p.mt-4(data-aos="fade-right") Por parte de la empresa, estos acuerdos de protección de información pueden estar obligados a guardar información sobre procesos técnicos, comerciales y de fabricación de los productos, con el objetivo de evitar la divulgación o uso indebido de la información y que pueda causar un prejuicio a la empresa. 
+        p(data-aos="fade-right") Los avances tecnológicos en el mundo han permitido que hoy en día las empresas y los clientes estén cada vez más interconectados digitalmente, y es aquí donde la confidencialidad de la información es una de las situaciones que más preocupa a las empresas. Es por esta razón, que deben existir guías de acción bien definidas en las empresas que permitan saber qué uso dar a cierta información. 
+        p.mt-4(data-aos="fade-right") Por parte de la empresa, estos acuerdos de protección de información pueden estar obligados a guardar información sobre procesos técnicos, comerciales y de fabricación de los productos, con el objetivo de evitar la divulgación o uso indebido de la información y que pueda causar un perjuicio a la empresa. 
 
     p.mt-5(data-aos="fade-up") Su principal finalidad recae en primer lugar, definir la información que se puede compartir y cual tendrá características de confidencialidad, en segundo lugar, proteger la información técnica o confidencial que no se pueda compartir con las partes intervenidas, y en tercer lugar, evitar pérdidas de propiedad intelectual.
     .row.mt-5.p-4(style="background-color:#A4A3FF;")
@@ -75,59 +75,59 @@
     p.mt-4(data-aos="fade-up") Es importante tener presente, que la información puede existir de diversas formas: impresa o escrita en papel, de forma electrónica, por medio de correos electrónicos, mediante proyecciones o de forma oral en alguna conversación. Esta se debe proteger con el objetivo de evitar amenazas que afecten la continuidad del negocio, genere riesgos empresariales, o que no permitan maximizar las inversiones y oportunidades del negocio.
 
     .tabla-a.color-acento-contenido.mt-5
-      table
+      table(style="table-layout:auto;")
         thead
           tr
             th.h5(colspan="2") Confidencialidad, uso y manejo de datos personales en Colombia
         tbody
           tr
-            td.text-center Artículo 15. Constitución Política
-            td Todas las personas tienen derecho a su intimidad personal y familiar y a su buen nombre, y el Estado debe respetarlos y hacerlos respetar. De igual modo, tienen derecho a conocer, actualizar y rectificar las informaciones que se hayan recogido sobre ellas en bancos de datos y en archivos de entidades públicas y privadas.
+            td.text-center(style="width:35%;") Artículo 15. Constitución Política
+            td(style="width:65%;") Todas las personas tienen derecho a su intimidad personal y familiar y a su buen nombre, y el Estado debe respetarlos y hacerlos respetar. De igual modo, tienen derecho a conocer, actualizar y rectificar las informaciones que se hayan recogido sobre ellas en bancos de datos y en archivos de entidades públicas y privadas.
           tr
-            td.text-center Artículo 2º. Ley de 1266 de 2008 #[br] Ámbito de aplicación.
-            td La presente ley se aplica a todos los datos de información personal registrados en un banco de datos, sean estos administrados por entidades de naturaleza pública o privada.
+            td.text-center(style="width:20%;") Artículo 2º. Ley de 1266 de 2008 #[br] Ámbito de aplicación.
+            td(style="width:80%;") La presente ley se aplica a todos los datos de información personal registrados en un banco de datos, sean estos administrados por entidades de naturaleza pública o privada.
           tr
-            td.text-center Artículo 4º. Ley de 1266 de 2008 #[br] Principios de la administración de datos.
-            td En el desarrollo, interpretación y aplicación de la presente ley, se tendrán en cuenta, de manera armónica e integral.
+            td.text-center(style="width:20%;") Artículo 4º. Ley de 1266 de 2008 #[br] Principios de la administración de datos.
+            td(style="width:80%;") En el desarrollo, interpretación y aplicación de la presente ley, se tendrán en cuenta, de manera armónica e integral.
           tr
-            td.text-center Artículo 5º. Ley de 1266 de 2008 #[br] Circulación de información.
-            td La información personal recolectada o suministrada de conformidad con lo dispuesto en la ley a los operadores que haga parte del banco de datos que administra, podrá ser entregada de manera verbal, escrita, o puesta a disposición.
+            td.text-center(style="width:20%;") Artículo 5º. Ley de 1266 de 2008 #[br] Circulación de información.
+            td(style="width:80%;") La información personal recolectada o suministrada de conformidad con lo dispuesto en la ley a los operadores que haga parte del banco de datos que administra, podrá ser entregada de manera verbal, escrita, o puesta a disposición.
           tr
-            td.text-center Artículo 6º. Ley de 1266 de 2008
-            td Derechos de los titulares de la información.
+            td.text-center(style="width:20%;") Artículo 6º. Ley de 1266 de 2008
+            td(style="width:80%;") Derechos de los titulares de la información.
           tr
-            td.text-center Artículo 7º. Ley de 1266 de 2008 #[br] Deberes de los operadores de los bancos de datos.
-            td Sin perjuicio del cumplimiento de las demás disposiciones contenidas en la presente ley y otras que rijan su actividad, los operadores de los bancos de datos.
+            td.text-center(style="width:20%;") Artículo 7º. Ley de 1266 de 2008 #[br] Deberes de los operadores de los bancos de datos.
+            td(style="width:80%;") Sin perjuicio del cumplimiento de las demás disposiciones contenidas en la presente ley y otras que rijan su actividad, los operadores de los bancos de datos.
           tr
-            td.text-center Artículo 16. Ley de 1266 de 2008
-            td Peticiones, consultas y reclamos.
+            td.text-center(style="width:20%;") Artículo 16. Ley de 1266 de 2008
+            td(style="width:80%;") Peticiones, consultas y reclamos.
           tr
-            td.text-center Artículo 4º. Ley de 1581 de 2013
-            td Principios para el Tratamiento de datos personales. En el desarrollo, interpretación y aplicación de la presente ley, se aplicarán, de manera armónica e integral.
+            td.text-center(style="width:20%;") Artículo 4º. Ley de 1581 de 2013
+            td(style="width:80%;") Principios para el Tratamiento de datos personales. En el desarrollo, interpretación y aplicación de la presente ley, se aplicarán, de manera armónica e integral.
           tr
-            td.text-center Artículo 9º. Ley 1581 de 2013 #[br] Autorización del Titular.
-            td Sin perjuicio de las excepciones previstas en la ley, en el Tratamiento se requiere la autorización previa e informada del Titular, la cual deberá ser obtenida por cualquier medio que pueda ser objeto de consulta posterior.
+            td.text-center(style="width:20%;") Artículo 9º. Ley 1581 de 2013 #[br] Autorización del Titular.
+            td(style="width:80%;") Sin perjuicio de las excepciones previstas en la ley, en el Tratamiento se requiere la autorización previa e informada del Titular, la cual deberá ser obtenida por cualquier medio que pueda ser objeto de consulta posterior.
           tr
-            td.text-center Artículo 11. Ley de 1581 de 2013 #[br] Suministro de la información.
-            td La información solicitada podrá ser suministrada por cualquier medio, incluyendo los electrónicos, según lo requiera el Titular. La información deberá ser de fácil lectura, sin barreras técnicas que impidan su acceso y deberá corresponder en un todo a aquella que repose en la base de datos.
+            td.text-center(style="width:20%;") Artículo 11. Ley de 1581 de 2013 #[br] Suministro de la información.
+            td(style="width:80%;") La información solicitada podrá ser suministrada por cualquier medio, incluyendo los electrónicos, según lo requiera el Titular. La información deberá ser de fácil lectura, sin barreras técnicas que impidan su acceso y deberá corresponder en un todo a aquella que repose en la base de datos.
           tr
-            td.text-center Artículo 12. Ley de 1581 de 2013 #[br] Deber de informar al Titular.
-            td El Responsable del Tratamiento, al momento de solicitar al Titular la autorización, deberá informarle de manera clara.
+            td.text-center(style="width:20%;") Artículo 12. Ley de 1581 de 2013 #[br] Deber de informar al Titular.
+            td(style="width:80%;") El Responsable del Tratamiento, al momento de solicitar al Titular la autorización, deberá informarle de manera clara.
           tr
-            td.text-center Artículo 14. Ley de 1581 de 2013 #[br] Consultas.
-            td Los Titulares o sus causahabientes podrán consultar la información personal del Titular que repose en cualquier base de datos, sea esta del sector público o privado. El Responsable del Tratamiento o Encargado del Tratamiento deberán suministrar a estos toda la información contenida en el registro individual o que esté vinculada con la identificación del Titular.
+            td.text-center(style="width:20%;") Artículo 14. Ley de 1581 de 2013 #[br] Consultas.
+            td(style="width:80%;") Los Titulares o sus causahabientes podrán consultar la información personal del Titular que repose en cualquier base de datos, sea esta del sector público o privado. El Responsable del Tratamiento o Encargado del Tratamiento deberán suministrar a estos toda la información contenida en el registro individual o que esté vinculada con la identificación del Titular.
           tr
-            td.text-center Artículo 17. Ley de 1581 de 2013 #[br] Deberes de los Responsables del Tratamiento.
-            td Los Responsables del Tratamiento deberán cumplir los siguientes deberes, sin perjuicio de las demás disposiciones previstas en la presente ley y en otras que rijan su actividad.
+            td.text-center(style="width:20%;") Artículo 17. Ley de 1581 de 2013 #[br] Deberes de los Responsables del Tratamiento.
+            td(style="width:80%;") Los Responsables del Tratamiento deberán cumplir los siguientes deberes, sin perjuicio de las demás disposiciones previstas en la presente ley y en otras que rijan su actividad.
           tr
-            td.text-center Artículo 4º. Decreto 1377 de 2013 #[br] Recolección de los datos personales
-            td En desarrollo de los principios de finalidad y libertad, la recolección de datos deberá limitarse a aquellos datos personales que son pertinentes y adecuados para la finalidad para la cual son recolectados o requeridos conforme a la normatividad vigente. Salvo en los casos expresamente previstos en la ley, no se podrán recolectar datos personales sin autorización del Titular.
+            td.text-center(style="width:20%;") Artículo 4º. Decreto 1377 de 2013 #[br] Recolección de los datos personales
+            td(style="width:80%;") En desarrollo de los principios de finalidad y libertad, la recolección de datos deberá limitarse a aquellos datos personales que son pertinentes y adecuados para la finalidad para la cual son recolectados o requeridos conforme a la normatividad vigente. Salvo en los casos expresamente previstos en la ley, no se podrán recolectar datos personales sin autorización del Titular.
           tr
-            td.text-center Artículo 11. Decreto 1377 de 2013
-            td Limitaciones temporales al Tratamiento de los datos personales.
+            td.text-center(style="width:20%;") Artículo 11. Decreto 1377 de 2013
+            td(style="width:80%;") Limitaciones temporales al Tratamiento de los datos personales.
           tr
-            td.text-center Artículo 23. Decreto 1377 de 2013 #[br] Medio para el ejercicio de derechos.
-            td Todo Responsable y Encargado deberá designar a una persona o área que asuma la función de protección de datos personales, que dará trámite a las solicitudes de los Titulares, para el ejercicio de los derechos a que se refiere la Ley 1581 de 2012 y el presente decreto.
+            td.text-center(style="width:20%;") Artículo 23. Decreto 1377 de 2013 #[br] Medio para el ejercicio de derechos.
+            td(style="width:80%;") Todo Responsable y Encargado deberá designar a una persona o área que asuma la función de protección de datos personales, que dará trámite a las solicitudes de los Titulares, para el ejercicio de los derechos a que se refiere la Ley 1581 de 2012 y el presente decreto.
 
     .row.mt-5.p-4(style="background-color:#FFDE96;")
       .col-md-2.col-sm-3.text-center(style="place-self:center;")
