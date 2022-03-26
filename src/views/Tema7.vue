@@ -26,7 +26,7 @@
         li(data-aos="fade-up")
           .lista-ol--cuadro__vineta
             span 4
-          | Trato cortés.
+          | Trato cortés
         li(data-aos="fade-up")
           .lista-ol--cuadro__vineta
             span 5

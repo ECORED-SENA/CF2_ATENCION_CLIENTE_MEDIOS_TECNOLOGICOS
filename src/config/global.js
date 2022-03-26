@@ -130,12 +130,12 @@ export default {
     },
     {
       referencia:
-        'Normas ISO/ FDIS 9000:2000(E). Sistema de Gestión de la Calidad. Fundamentos y Vocabulario.',
+        'Normas ISO/ FDIS 9000:2000(E). Sistema de gestión de la calidad. fundamentos y vocabulario.',
       link: '',
     },
     {
       referencia:
-        'Ochoa Gallo, A. (2018). Métodos para contribuir a la mejora continua del proceso logístico de atención al cliente. Caso empresarial de Yanbal Sede Medellín.',
+        'Ochoa Gallo, A. (2018). Métodos para contribuir a la mejora continua del proceso logístico de atención al cliente. Caso empresarial de Yanbal Sede medellín.',
       link: '',
     },
     {
@@ -145,7 +145,7 @@ export default {
     },
     {
       referencia:
-        'Ruiz-Canela López J. (2004). La Gestión por la Calidad Total en la empresa moderna.',
+        'Ruiz-Canela López J. (2004). La gestión por la calidad total en la empresa moderna.',
       link: '',
     },
   ],

@@ -24,7 +24,7 @@
             | Como todo proceso se tiene en cuenta cuando los productos se mezclan, dividen o cambian; se busca contestar: ¿Qué es lo que se crea?, ¿A partir de que se crea?, ¿Cómo se crea?, ¿Cuándo? Identificación del producto final.
       .col-12.col-md-4.px-0.px-md-4
         div(style="background-color: #A4A3FF").p-4.h-100
-          img(src="@/assets/curso/temas/tema8/1.svg" style="max-width: 91px" data-aos="zoom-in").mx-auto.mb-4
+          img(src="@/assets/curso/temas/tema8/3.png" style="max-width: 91px" data-aos="zoom-in").mx-auto.mb-4
           p(data-aos="fade-up") <b>Trazabilidad hacia adelante</b><br>
             | aquí se identifica a quiénes se entrega y lo que se ha vendido exactamente.
 

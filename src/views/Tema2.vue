@@ -174,7 +174,7 @@
         .h5.mb-2.mt-3 Colaboradores – Clientes
         p En este punto se le puede brindar una buena o mala experiencia al consumidor, debido a que es el punto de contacto y la relación más relevante del triángulo de servicio. 
       .tarjeta.color-acento-botones.p-3(x="48%" y="19%" numero="01" style="background-color:#F6F6F6;border-radius:0px;")
-        .h5.mb-2.mt-3 Compañia – Clientes
+        .h5.mb-2.mt-3 Compañía – Clientes
         p Busca generar confianza y fidelización a largo plazo a través de comunicar las estrategias de servicio a los clientes.
       .tarjeta.color-acento-botones.p-3(x="86%" y="26%" numero="02" style="background-color:#F6F6F6;border-radius:0px;")
         .h5.mb-2.mt-3 Compañía – Colaboradores

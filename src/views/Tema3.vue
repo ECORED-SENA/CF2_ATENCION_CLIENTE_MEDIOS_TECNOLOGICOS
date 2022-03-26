@@ -142,6 +142,8 @@ export default {
     this.$nextTick(() => {
       this.$aosRefresh()
     })
+    $('.slyder-d__content .col-md-8.col-lg-6').removeClass('col-lg-6')
+    $('.slyder-d__content .col-md-8').addClass('col-lg-8')
   },
   updated() {
     this.$aosRefresh()

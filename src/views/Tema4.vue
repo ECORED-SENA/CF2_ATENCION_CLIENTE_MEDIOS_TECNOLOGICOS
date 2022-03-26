@@ -133,7 +133,7 @@
             td.text-center(style="width:20%;") Artículo 6º. Ley de 1266 de 2008
             td(style="width:80%;") Derechos de los titulares de la información.
           tr
-            td.text-center(style="width:20%;") Artículo 7º. Ley de 1266 de 2008 #[br] Deberes de los operadores de los bancos de datos.
+            td.text-center(style="width:20%;") Artículo 7º. Ley de 1266 de 2008 #[br] Deberes de los operadores de los bancos de datos
             td(style="width:80%;") Sin perjuicio del cumplimiento de las demás disposiciones contenidas en la presente ley y otras que rijan su actividad, los operadores de los bancos de datos.
           tr
             td.text-center(style="width:20%;") Artículo 16. Ley de 1266 de 2008
@@ -143,7 +143,7 @@
             td(style="width:80%;") Principios para el Tratamiento de datos personales. En el desarrollo, interpretación y aplicación de la presente ley, se aplicarán, de manera armónica e integral.
           tr
             td.text-center(style="width:20%;") Artículo 9º. Ley 1581 de 2013 #[br] Autorización del titular
-            td(style="width:80%;") Sin perjuicio de las excepciones previstas en la Ley, en el tratamiento se requiere la autorización previa e informada del Titular, la cual deberá ser obtenida por cualquier medio que pueda ser objeto de consulta posterior.
+            td(style="width:80%;") Sin perjuicio de las excepciones previstas en la Ley, en el tratamiento se requiere la autorización previa e informada del titular, la cual deberá ser obtenida por cualquier medio que pueda ser objeto de consulta posterior.
           tr
             td.text-center(style="width:20%;") Artículo 11. Ley de 1581 de 2013 #[br] Suministro de la información
             td(style="width:80%;") La información solicitada podrá ser suministrada por cualquier medio, incluyendo los electrónicos, según lo requiera el titular. La información deberá ser de fácil lectura, sin barreras técnicas que impidan su acceso y deberá corresponder en un todo a aquella que repose en la base de datos.
@@ -166,7 +166,7 @@
             td.text-center(style="width:20%;") Artículo 11. Decreto 1377 de 2013
             td(style="width:80%;") Limitaciones temporales al tratamiento de los datos personales.
           tr
-            td.text-center(style="width:20%;") Artículo 23. Decreto 1377 de 2013 #[br] Medio para el ejercicio de derechos.
+            td.text-center(style="width:20%;") Artículo 23. Decreto 1377 de 2013 #[br] Medio para el ejercicio de derechos
             td(style="width:80%;") Todo responsable y encargado deberá designar a una persona o área que asuma la función de protección de datos personales, que dará trámite a las solicitudes de los titulares, para el ejercicio de los derechos a que se refiere la Ley 1581 de 2012 y el presente decreto.
 
     .row.mt-5.p-4(style="background-color:#FFDE96;")

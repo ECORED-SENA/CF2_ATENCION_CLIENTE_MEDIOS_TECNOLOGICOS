@@ -121,19 +121,19 @@
             p Aquí se deben definir todos los procedimientos, entre estos pueden ser: ventas, operaciones, administración, finanzas, entre otros. También es importante incluir los límites e involucrar a las personas y áreas que lleven a cabo las actividades del mismo.
       .row.ps-3(titulo="III Establecer los procesos y procedimientos")
         .row.col-12.ps-5
-          p Se definen los procesos y procedimientos que se van a incluir, aquí se puede tener presente un ejemplo: si se fueran a establecer procesos o procedimientos para el área de ventas, se incluye, ver tabla 1:
-          p.mt-4.p-2(style="border-left:4px #FCB315 solid;") #[strong Tabla 1] Procesos y Procedimientos para el Área de Ventas, Operaciones, Administración y finanzas
+          p Se definen los procesos y procedimientos que se van a incluir, aquí se puede tener presente un ejemplo: si se fueran a establecer procesos o procedimientos para el área de ventas, se incluye, ver tabla 1
+          p.mt-4.p-2(style="border-left:4px #FCB315 solid;") #[strong Tabla 1] Procesos y procedimientos para el área de ventas, operaciones, administración y finanzas
 
           .tabla-a.color-acento-contenido.mt-3.p-0
             table
               thead
                 tr
-                  th Procesos y procedimientos para ventas
+                  th procesos y procedimientos para ventas
                   th Operaciones
                   th Administración y finanzas
               tbody
                 tr.bg-white
-                  td Planeación y ejecución de campañas de marketing
+                  td Planeación y ejecución de campañas de #[em marketing]
                   td Compras
                   td Facturación
                 tr.bg-white
