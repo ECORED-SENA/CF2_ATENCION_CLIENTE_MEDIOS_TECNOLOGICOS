@@ -122,7 +122,7 @@
             td(style="width:65%;") Todas las personas tienen derecho a su intimidad personal y familiar y a su buen nombre, y el Estado debe respetarlos y hacerlos respetar. De igual modo, tienen derecho a conocer, actualizar y rectificar las informaciones que se hayan recogido sobre ellas en bancos de datos y en archivos de entidades públicas y privadas.
           tr
             td.text-center(style="width:20%;") Artículo 2º. Ley de 1266 de 2008 #[br] Ámbito de aplicación
-            td(style="width:80%;") La presente ley se aplica a todos los datos de información personal registrados en un banco de datos, sean estos administrados por entidades de naturaleza pública o privada.
+            td(style="width:80%;") La presente Ley se aplica a todos los datos de información personal registrados en un banco de datos, sean estos administrados por entidades de naturaleza pública o privada.
           tr
             td.text-center(style="width:20%;") Artículo 4º. Ley de 1266 de 2008 #[br] Principios de la administración de datos
             td(style="width:80%;") En el desarrollo, interpretación y aplicación de la presente ley, se tendrán en cuenta, de manera armónica e integral.
@@ -140,7 +140,7 @@
             td(style="width:80%;") Peticiones, consultas y reclamos.
           tr
             td.text-center(style="width:20%;") Artículo 4º. Ley de 1581 de 2013
-            td(style="width:80%;") Principios para el Tratamiento de datos personales. En el desarrollo, interpretación y aplicación de la presente ley, se aplicarán, de manera armónica e integral.
+            td(style="width:80%;") Principios para el tratamiento de datos personales. En el desarrollo, interpretación y aplicación de la presente Ley, se aplicarán, de manera armónica e integral.
           tr
             td.text-center(style="width:20%;") Artículo 9º. Ley 1581 de 2013 #[br] Autorización del titular
             td(style="width:80%;") Sin perjuicio de las excepciones previstas en la Ley, en el tratamiento se requiere la autorización previa e informada del titular, la cual deberá ser obtenida por cualquier medio que pueda ser objeto de consulta posterior.
@@ -155,9 +155,9 @@
             td(style="width:80%;") Los titulares o sus causahabientes podrán consultar la información personal del titular que repose en cualquier base de datos, sea esta del sector público o privado. El responsable del tratamiento o encargado del tratamiento deberán suministrar a estos toda la información contenida en el registro individual o que esté vinculada con la identificación del titular.
           tr
             td.text-center(style="width:20%;") Artículo 15. Ley 1581 de 2013 Reclamos
-            td(style="width:80%;") El titular o sus causahabientes que consideren que la información contenida en una base de datos debe ser objeto de corrección, actualización o supresión, o cuando adviertan el presunto incumplimiento de cualquiera de los deberes contenidos en esta ley, podrán presentar un reclamo ante el Responsable del Tratamiento o el Encargado del Tratamiento el cual será tramitado.
+            td(style="width:80%;") El titular o sus causahabientes que consideren que la información contenida en una base de datos debe ser objeto de corrección, actualización o supresión, o cuando adviertan el presunto incumplimiento de cualquiera de los deberes contenidos en esta ley, podrán presentar un reclamo ante el responsable del tratamiento o el encargado del tratamiento el cual será tramitado.
           tr
-            td.text-center(style="width:20%;") Artículo 17. Ley de 1581 de 2013 #[br] deberes de los responsables del tratamiento
+            td.text-center(style="width:20%;") Artículo 17. Ley de 1581 de 2013 #[br] Deberes de los responsables del tratamiento
             td(style="width:80%;") Los responsables del tratamiento deberán cumplir los siguientes deberes, sin perjuicio de las demás disposiciones previstas en la presente ley y en otras que rijan su actividad.
           tr
             td.text-center(style="width:20%;") Artículo 4º. Decreto 1377 de 2013 #[br] Recolección de los datos personales
