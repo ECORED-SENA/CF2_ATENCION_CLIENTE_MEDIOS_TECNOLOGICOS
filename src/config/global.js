@@ -135,7 +135,7 @@ export default {
     },
     {
       referencia:
-        'Ochoa Gallo, A. (2018). Métodos para contribuir a la mejora continua del proceso logístico de atención al cliente. Caso empresarial de Yanbal Sede medellín.',
+        'Ochoa Gallo, A. (2018). Métodos para contribuir a la mejora continua del proceso logístico de atención al cliente. Caso empresarial de Yanbal sede Medellín.',
       link: '',
     },
     {

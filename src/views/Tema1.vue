@@ -128,7 +128,7 @@
             table
               thead
                 tr
-                  th procesos y procedimientos para ventas
+                  th Procesos y procedimientos para ventas
                   th Operaciones
                   th Administración y finanzas
               tbody
