@@ -5,21 +5,28 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 8
-      h1 Comunicación
+      h1 Trazabilidad del servicio
     
     p.mb-5(data-aos="fade-up") La trazabilidad de servicio al cliente son aquellos procedimientos preestablecidos y autosuficientes que permiten conocer el histórico, la ubicación y la trayectoria de un producto o lote de productos a lo largo de la cadena de suministros en un momento dado, a través de herramientas determinadas.
 
-    .col-12.col-md-10.d-flex.flex-wrap.mx-auto.mb-5
-      .col-12.col-md-6.px-0.px-md-4
+    h5.text-center.mt-5(data-aos="fade-up") Tipos de trazabilidad
+
+    .col-12.col-md-10.d-flex.flex-wrap.mx-auto.mb-5.mt-4
+      .col-12.col-md-4.px-0.px-md-4
         div(style="background-color: #A4A3FF").p-4.h-100
           img(src="@/assets/curso/temas/tema8/1.svg" style="max-width: 91px" data-aos="zoom-in").mx-auto.mb-4
           p(data-aos="fade-up") <b>Trazabilidad hacia atrás</b><br>
             | Cuando se identifica de quien se reciben los productos y lo que se ha recibido exactamente.
-      .col-12.col-md-6.px-0.px-md-4
+      .col-12.col-md-4.px-0.px-md-4
         div(style="background-color: #FADE9F").p-4.h-100
           img(src="@/assets/curso/temas/tema8/2.svg" style="max-width: 91px" data-aos="zoom-in").mx-auto.mb-4
           p(data-aos="fade-up") <b>Trazabilidad de proceso (interno)</b><br>
             | Como todo proceso se tiene en cuenta cuando los productos se mezclan, dividen o cambian; se busca contestar: ¿Qué es lo que se crea?, ¿A partir de que se crea?, ¿Cómo se crea?, ¿Cuándo? Identificación del producto final.
+      .col-12.col-md-4.px-0.px-md-4
+        div(style="background-color: #A4A3FF").p-4.h-100
+          img(src="@/assets/curso/temas/tema8/1.svg" style="max-width: 91px" data-aos="zoom-in").mx-auto.mb-4
+          p(data-aos="fade-up") <b>Trazabilidad hacia adelante</b><br>
+            | aquí se identifica a quiénes se entrega y lo que se ha vendido exactamente.
 
     p.mb-5(data-aos="fade-up") <b>Proceso de mejora continua</b>
       | Es la mejora de los productos, servicios y procesos. Buscan la forma más práctica de mejora de la calidad y la eficiencia en las empresas. Un ejemplo, son: los sistemas de gestión de calidad, normas ISO y sistemas de evaluación ambiental, son utilizados para tener una calidad total. 
@@ -59,7 +66,7 @@
 
       .tarjeta.color-acento-botones.p-3(x="44%" y="10.5%" numero="1" style="background-color:#F6F6F6;border-radius:0px;")
         .h5.mb-2 Cortesía
-        p Se considera el uso practico de las buenas costumbres del comportamiento humano.
+        p Se considera el uso práctico de las buenas costumbres del comportamiento humano.
       .tarjeta.color-acento-botones.p-3(x="46%" y="51.5%" numero="2" style="background-color:#F6F6F6;border-radius:0px;")
         .h5.mb-2 Conocimiento
         p Se adquieren a través de la experiencia o educación, su comprensión y practica de un objeto se da por hechos o información adquiridos por el tiempo.

@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 7
-      h1 Atención al cliente
+      h1 Factores claves
 
     p.mb-5(data-aos="fade-up") Hoy en día las empresas buscan mantenerse en el mercado y crear esa identidad propia de la marca que genere fidelidad por parte de sus clientes. Es por esta razón, que para que una empresa obtenga éxito en el servicio al cliente debe tener presente los siguientes factores claves: 
 
@@ -14,48 +14,48 @@
         li(data-aos="fade-up")
           .lista-ol--cuadro__vineta
             span 1
-          | Atención inmediata.
+          | Atención inmediata
         li(data-aos="fade-up")
           .lista-ol--cuadro__vineta
             span 2
-          | Comprensión de lo que quiere el cliente. 
+          | Comprensión de lo que quiere el cliente 
         li(data-aos="fade-up")
           .lista-ol--cuadro__vineta
             span 3
-          | Atención completa y exclusiva.
+          | Atención completa y exclusiva
         li(data-aos="fade-up")
           .lista-ol--cuadro__vineta
             span 4
-          | Trato cortes.
+          | Trato cortés.
         li(data-aos="fade-up")
           .lista-ol--cuadro__vineta
             span 5
-          | Expresión de interés por el cliente.
+          | Expresión de interés por el cliente
         li(data-aos="fade-up")
           .lista-ol--cuadro__vineta
             span 6
-          | Receptividad de preguntas.
+          | Receptividad de preguntas
       ol.lista-ol--cuadro.lista-ol--separador.col-12.col-md-6.pe-0.pe-md-5
         li(data-aos="fade-up")
           .lista-ol--cuadro__vineta
             span 7
-          | Prontitud en las respuestas.
+          | Prontitud en las respuestas
         li(data-aos="fade-up")
           .lista-ol--cuadro__vineta
             span 8
-          | Eficacia al presentar un servicio.
+          | Eficacia al prestar un servicio
         li(data-aos="fade-up")
           .lista-ol--cuadro__vineta
             span 9
-          | Atención a reclamos.
+          | Atención a reclamos
         li(data-aos="fade-up")
           .lista-ol--cuadro__vineta
             span 10
-          | Aceptar la responsabilidad por errores cometidos por el personal de la empresa.
+          | Aceptar la responsabilidad por errores cometidos por el personal de la empresa
         li(data-aos="fade-up")
           .lista-ol--cuadro__vineta
             span 11
-          | Hacer saber que el cliente es la persona más importante de la empresa.
+          | Hacer saber que el cliente es la persona más importante de la empresa
     .d-flex.flex-wrap.flex-md-nowrap.align-items-center(style="background-color: #A4A3FF").py-4.px-5.mb-5
       img(src="@/assets/curso/temas/tema7/1.svg" style="max-width: 91px" data-aos="fade-left")
       p.mb-0(data-aos="fade-right") Por otra parte, se encuentran los sistemas automatizados de ventas, que reducen la duración de los ciclos de los procesos relacionados con el cliente, el desperdicio, aumento del tiempo y agregar valor a la relación con el cliente. 
@@ -73,7 +73,7 @@ export default {
       {
         titulo: 'Escuchar las necesidades del cliente',
         texto:
-          'Se ebe escuchar realmente lo que las personas dicen. Es importante analizar el lenguaje y las palabras que utilizan los clientes o personas con el objetivo de identificar sus necesidades. Aquí es importante hacer preguntas y prestar atención a lo que están diciendo. ',
+          'Se deben escuchar realmente lo que las personas dicen. Es importante analizar el lenguaje y las palabras que utilizan los clientes o personas con el objetivo de identificar sus necesidades. Aquí es importante hacer preguntas y prestar atención a lo que están diciendo. ',
         imagen: require('@/assets/curso/temas/tema7/4.png'),
       },
       {

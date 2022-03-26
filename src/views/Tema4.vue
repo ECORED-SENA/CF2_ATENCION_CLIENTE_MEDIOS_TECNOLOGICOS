@@ -74,6 +74,43 @@
     p(data-aos="fade-up") Toda empresa que maneje información debe establecer políticas de seguridad y manejo de la misma. La información deberá estar siempre protegida sin importar la forma de ser compartida, comunicada o almacenada.
     p.mt-4(data-aos="fade-up") Es importante tener presente, que la información puede existir de diversas formas: impresa o escrita en papel, de forma electrónica, por medio de correos electrónicos, mediante proyecciones o de forma oral en alguna conversación. Esta se debe proteger con el objetivo de evitar amenazas que afecten la continuidad del negocio, genere riesgos empresariales, o que no permitan maximizar las inversiones y oportunidades del negocio.
 
+    p.mt-5(data-aos="fade-up") Estas políticas de seguridad están enmarcadas con el objetivo de:
+
+    ul.lista-ul.mt-4
+      li(data-aos="fade-up") 
+        i.fas.fa-paper-plane(style="color:#FCB315;")
+        | Comprender y tratar los riesgos operacionales y estratégicos en seguridad de la información.
+      li(data-aos="fade-up") 
+        i.fas.fa-paper-plane(style="color:#FCB315;")
+        | Protección y confidencialidad de la información de los clientes.
+      li(data-aos="fade-up") 
+        i.fas.fa-paper-plane(style="color:#FCB315;")
+        | La conservación de los registros contables.
+      li(data-aos="fade-up") 
+        i.fas.fa-paper-plane(style="color:#FCB315;")
+        | Disponibilidad de información requerida en los servicios Web de acceso público y las redes internas. 
+      li(data-aos="fade-up") 
+        i.fas.fa-paper-plane(style="color:#FCB315;")
+        | Dar cobertura a las necesidades de todas las partes interesadas o involucradas. 
+
+    p.mt-5(data-aos="fade-up") Por otra parte, siempre debe existir las responsabilidades según el cargo o personal involucrado y en un sistema de seguridad de la información, por lo general se asume la responsabilidad de la siguiente manera:
+
+    ul.lista-ul.mt-4
+      li(data-aos="fade-up") 
+        i.fas.fa-paper-plane(style="color:#FCB315;")
+        | Los directivos serán responsable de verificar y velar por la seguridad de la información se gestione apropiadamente en toda la empresa.
+      li(data-aos="fade-up") 
+        i.fas.fa-paper-plane(style="color:#FCB315;")
+        | El administrador es responsable de garantizar que los trabajadores de la empresa protejan la información de acuerdo con las normas establecidas.
+      li(data-aos="fade-up") 
+        i.fas.fa-paper-plane(style="color:#FCB315;")
+        | El responsable de seguridad debe asesorar, proporcionar apoyo y generar informes sobre la situación de la seguridad de la información.
+      li(data-aos="fade-up") 
+        i.fas.fa-paper-plane(style="color:#FCB315;")
+        | Cada trabajador de la empresa tiene la responsabilidad de mantener la seguridad de información dentro de las actividades relacionadas con su trabajo.
+
+    p.mt-5(data-aos="fade-up") Por otra parte, se encuentra la legislación que regula la confidencialidad, uso y manejo de datos personales en Colombia. Entre las normas se encuentran: 
+
     .tabla-a.color-acento-contenido.mt-5
       table(style="table-layout:auto;")
         thead
@@ -84,13 +121,13 @@
             td.text-center(style="width:35%;") Artículo 15. Constitución Política
             td(style="width:65%;") Todas las personas tienen derecho a su intimidad personal y familiar y a su buen nombre, y el Estado debe respetarlos y hacerlos respetar. De igual modo, tienen derecho a conocer, actualizar y rectificar las informaciones que se hayan recogido sobre ellas en bancos de datos y en archivos de entidades públicas y privadas.
           tr
-            td.text-center(style="width:20%;") Artículo 2º. Ley de 1266 de 2008 #[br] Ámbito de aplicación.
+            td.text-center(style="width:20%;") Artículo 2º. Ley de 1266 de 2008 #[br] Ámbito de aplicación
             td(style="width:80%;") La presente ley se aplica a todos los datos de información personal registrados en un banco de datos, sean estos administrados por entidades de naturaleza pública o privada.
           tr
-            td.text-center(style="width:20%;") Artículo 4º. Ley de 1266 de 2008 #[br] Principios de la administración de datos.
+            td.text-center(style="width:20%;") Artículo 4º. Ley de 1266 de 2008 #[br] Principios de la administración de datos
             td(style="width:80%;") En el desarrollo, interpretación y aplicación de la presente ley, se tendrán en cuenta, de manera armónica e integral.
           tr
-            td.text-center(style="width:20%;") Artículo 5º. Ley de 1266 de 2008 #[br] Circulación de información.
+            td.text-center(style="width:20%;") Artículo 5º. Ley de 1266 de 2008 #[br] Circulación de información
             td(style="width:80%;") La información personal recolectada o suministrada de conformidad con lo dispuesto en la ley a los operadores que haga parte del banco de datos que administra, podrá ser entregada de manera verbal, escrita, o puesta a disposición.
           tr
             td.text-center(style="width:20%;") Artículo 6º. Ley de 1266 de 2008
@@ -105,35 +142,38 @@
             td.text-center(style="width:20%;") Artículo 4º. Ley de 1581 de 2013
             td(style="width:80%;") Principios para el Tratamiento de datos personales. En el desarrollo, interpretación y aplicación de la presente ley, se aplicarán, de manera armónica e integral.
           tr
-            td.text-center(style="width:20%;") Artículo 9º. Ley 1581 de 2013 #[br] Autorización del Titular.
-            td(style="width:80%;") Sin perjuicio de las excepciones previstas en la ley, en el Tratamiento se requiere la autorización previa e informada del Titular, la cual deberá ser obtenida por cualquier medio que pueda ser objeto de consulta posterior.
+            td.text-center(style="width:20%;") Artículo 9º. Ley 1581 de 2013 #[br] Autorización del titular
+            td(style="width:80%;") Sin perjuicio de las excepciones previstas en la Ley, en el tratamiento se requiere la autorización previa e informada del Titular, la cual deberá ser obtenida por cualquier medio que pueda ser objeto de consulta posterior.
           tr
-            td.text-center(style="width:20%;") Artículo 11. Ley de 1581 de 2013 #[br] Suministro de la información.
-            td(style="width:80%;") La información solicitada podrá ser suministrada por cualquier medio, incluyendo los electrónicos, según lo requiera el Titular. La información deberá ser de fácil lectura, sin barreras técnicas que impidan su acceso y deberá corresponder en un todo a aquella que repose en la base de datos.
+            td.text-center(style="width:20%;") Artículo 11. Ley de 1581 de 2013 #[br] Suministro de la información
+            td(style="width:80%;") La información solicitada podrá ser suministrada por cualquier medio, incluyendo los electrónicos, según lo requiera el titular. La información deberá ser de fácil lectura, sin barreras técnicas que impidan su acceso y deberá corresponder en un todo a aquella que repose en la base de datos.
           tr
-            td.text-center(style="width:20%;") Artículo 12. Ley de 1581 de 2013 #[br] Deber de informar al Titular.
-            td(style="width:80%;") El Responsable del Tratamiento, al momento de solicitar al Titular la autorización, deberá informarle de manera clara.
+            td.text-center(style="width:20%;") Artículo 12. Ley de 1581 de 2013 #[br] Deber de informar al Titular
+            td(style="width:80%;") El responsable del Tratamiento, al momento de solicitar al titular la autorización, deberá informarle de manera clara.
           tr
-            td.text-center(style="width:20%;") Artículo 14. Ley de 1581 de 2013 #[br] Consultas.
-            td(style="width:80%;") Los Titulares o sus causahabientes podrán consultar la información personal del Titular que repose en cualquier base de datos, sea esta del sector público o privado. El Responsable del Tratamiento o Encargado del Tratamiento deberán suministrar a estos toda la información contenida en el registro individual o que esté vinculada con la identificación del Titular.
+            td.text-center(style="width:20%;") Artículo 14. Ley de 1581 de 2013 #[br] Consultas
+            td(style="width:80%;") Los titulares o sus causahabientes podrán consultar la información personal del titular que repose en cualquier base de datos, sea esta del sector público o privado. El responsable del tratamiento o encargado del tratamiento deberán suministrar a estos toda la información contenida en el registro individual o que esté vinculada con la identificación del titular.
           tr
-            td.text-center(style="width:20%;") Artículo 17. Ley de 1581 de 2013 #[br] Deberes de los Responsables del Tratamiento.
-            td(style="width:80%;") Los Responsables del Tratamiento deberán cumplir los siguientes deberes, sin perjuicio de las demás disposiciones previstas en la presente ley y en otras que rijan su actividad.
+            td.text-center(style="width:20%;") Artículo 15. Ley 1581 de 2013 Reclamos
+            td(style="width:80%;") El titular o sus causahabientes que consideren que la información contenida en una base de datos debe ser objeto de corrección, actualización o supresión, o cuando adviertan el presunto incumplimiento de cualquiera de los deberes contenidos en esta ley, podrán presentar un reclamo ante el Responsable del Tratamiento o el Encargado del Tratamiento el cual será tramitado.
+          tr
+            td.text-center(style="width:20%;") Artículo 17. Ley de 1581 de 2013 #[br] deberes de los responsables del tratamiento
+            td(style="width:80%;") Los responsables del tratamiento deberán cumplir los siguientes deberes, sin perjuicio de las demás disposiciones previstas en la presente ley y en otras que rijan su actividad.
           tr
             td.text-center(style="width:20%;") Artículo 4º. Decreto 1377 de 2013 #[br] Recolección de los datos personales
-            td(style="width:80%;") En desarrollo de los principios de finalidad y libertad, la recolección de datos deberá limitarse a aquellos datos personales que son pertinentes y adecuados para la finalidad para la cual son recolectados o requeridos conforme a la normatividad vigente. Salvo en los casos expresamente previstos en la ley, no se podrán recolectar datos personales sin autorización del Titular.
+            td(style="width:80%;") En desarrollo de los principios de finalidad y libertad, la recolección de datos deberá limitarse a aquellos datos personales que son pertinentes y adecuados para la finalidad para la cual son recolectados o requeridos conforme a la normatividad vigente. Salvo en los casos expresamente previstos en la Ley, no se podrán recolectar datos personales sin autorización del titular.
           tr
             td.text-center(style="width:20%;") Artículo 11. Decreto 1377 de 2013
-            td(style="width:80%;") Limitaciones temporales al Tratamiento de los datos personales.
+            td(style="width:80%;") Limitaciones temporales al tratamiento de los datos personales.
           tr
             td.text-center(style="width:20%;") Artículo 23. Decreto 1377 de 2013 #[br] Medio para el ejercicio de derechos.
-            td(style="width:80%;") Todo Responsable y Encargado deberá designar a una persona o área que asuma la función de protección de datos personales, que dará trámite a las solicitudes de los Titulares, para el ejercicio de los derechos a que se refiere la Ley 1581 de 2012 y el presente decreto.
+            td(style="width:80%;") Todo responsable y encargado deberá designar a una persona o área que asuma la función de protección de datos personales, que dará trámite a las solicitudes de los titulares, para el ejercicio de los derechos a que se refiere la Ley 1581 de 2012 y el presente decreto.
 
     .row.mt-5.p-4(style="background-color:#FFDE96;")
       .col-md-2.col-sm-3.text-center(style="place-self:center;")
         img(src="@/assets/curso/temas/tema4/6.png" data-aos="fade-left" style="display:inline;max-width:100px;")
       .col-md-7.col-lg-7.col-sm-6(style="place-self:center;")
-        p(data-aos="fade-up") Para ampliar un poco más sobre la normativa, se puede consultar el siguiente documento: Normativa protección de datos personales en Colombia
+        p(data-aos="fade-up") Para ampliar un poco más sobre la normativa, se puede consultar el siguiente documento: normativa protección de datos personales en Colombia
       .col-md-3.col-lg-3.col-sm-3.text-center(style="place-self:center;")
         a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/NORMATIVA_PROTECCIÓN_DE_DATOS_PERSONALES.pdf')" target="_blank" type="application/pdf" data-aos="fade-up")
           span Descargar

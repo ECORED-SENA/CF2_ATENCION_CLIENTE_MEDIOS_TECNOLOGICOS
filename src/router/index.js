@@ -90,14 +90,14 @@ const router = new VueRouter({
           /* webpackChunkName: "glosario" */ '../../node_modules/ecored-base-pkg/src/views/Glosario.vue'
         ),
     },
-    {
+    /*{
       path: '/complementario',
       name: 'complementario',
       component: () =>
         import(
-          /* webpackChunkName: "comple" */ '../../node_modules/ecored-base-pkg/src/views/Complementario.vue'
+          /* webpackChunkName: "comple"  '../../node_modules/ecored-base-pkg/src/views/Complementario.vue'
         ),
-    },
+    },*/
     {
       path: '/referencias',
       name: 'referencias',

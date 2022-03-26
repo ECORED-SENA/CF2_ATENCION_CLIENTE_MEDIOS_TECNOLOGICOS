@@ -95,11 +95,11 @@ export default {
         icono: 'fas fa-sort-alpha-down',
         titulo: 'Glosario',
       },
-      {
-        nombreRuta: 'complementario',
-        icono: 'far fa-folder-open',
-        titulo: 'Material complementario',
-      },
+      //{
+      //  nombreRuta: 'complementario',
+      //  icono: 'far fa-folder-open',
+      //  titulo: 'Material complementario',
+      //},
       {
         icono: 'fas fa-book',
         titulo: 'Referencias bibliográficas',
@@ -125,7 +125,7 @@ export default {
     },
     {
       referencia:
-        "Feldman, L. B., Cunha, I. C. K. O., & D'Innocenzo, M. (2013). La validación de los criterios del proceso de evaluación del servicio de enfermería hospitalario1. Revista Latino-Americana de Enfermagem, 21, 841-850.",
+        "Feldman, L. B., Cunha, I. C. K. O., & D'Innocenzo, M. (2013). La validación de los criterios del proceso de evaluación del servicio de enfermería hospitalario 1. Revista Latino-Americana de Enfermagem, 21, 841-850.",
       link: '',
     },
     {
@@ -158,7 +158,7 @@ export default {
     {
       termino: 'PQRSDF',
       significado:
-        'Herramientas que permite desarrollar protocolos que ayudan a dar solución de forma ordenada a los inconvenientes que un cliente o persona pueda tener con respecto a los productos o servicios de una empresa e institución.',
+        'Herramientas que permiten desarrollar protocolos que ayudan a dar solución de forma ordenada a los inconvenientes que un cliente o persona pueda tener con respecto a los productos o servicios de una empresa e institución.',
     },
     {
       termino: 'Servicio',
