@@ -10,7 +10,7 @@
             img(src="@/assets/template/emparejamiento.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 Relación de conceptos de selección de personal.
+          h2 Protocolos, políticas y evaluación de la atención y servicio al cliente
         p.mb-4 Repasar los conocimientos adquiridos en este componente formativo mediante la identificación y relación con los criterios de evaluación del servicio teniendo en cuenta protocolos y manuales de atención al cliente.
         .tarjeta.tarjeta--azul.p-3
           .row.justify-content-around.align-items-center            
