@@ -9,30 +9,30 @@
     
     p.mb-5(data-aos="fade-up") La trazabilidad de servicio al cliente son aquellos procedimientos preestablecidos y autosuficientes que permiten conocer el histórico, la ubicación y la trayectoria de un producto o lote de productos a lo largo de la cadena de suministros en un momento dado, a través de herramientas determinadas.
 
-    h5.text-center.mt-5(data-aos="fade-up") Tipos de trazabilidad
+    h3.text-center.mt-5(data-aos="fade-up") Tipos de trazabilidad
 
     .col-12.col-md-10.d-flex.flex-wrap.mx-auto.mb-5.mt-4
       .col-12.col-md-4.px-0.px-md-4
         div(style="background-color: #A4A3FF").p-4.h-100
           img(src="@/assets/curso/temas/tema8/1.svg" style="max-width: 91px" data-aos="zoom-in").mx-auto.mb-4
-          p(data-aos="fade-up") <b>Trazabilidad hacia atrás</b><br>
+          p(data-aos="fade-up") <b class="h5">Trazabilidad hacia atrás</b><br>
             | Cuando se identifica de quien se reciben los productos y lo que se ha recibido exactamente.
       .col-12.col-md-4.px-0.px-md-4
         div(style="background-color: #FADE9F").p-4.h-100
           img(src="@/assets/curso/temas/tema8/2.svg" style="max-width: 91px" data-aos="zoom-in").mx-auto.mb-4
-          p(data-aos="fade-up") <b>Trazabilidad de proceso (interno)</b><br>
+          p(data-aos="fade-up") <b class="h5">Trazabilidad de proceso (interno)</b><br>
             | Como todo proceso se tiene en cuenta cuando los productos se mezclan, dividen o cambian; se busca contestar: ¿Qué es lo que se crea?, ¿A partir de que se crea?, ¿Cómo se crea?, ¿Cuándo? Identificación del producto final.
       .col-12.col-md-4.px-0.px-md-4
         div(style="background-color: #A4A3FF").p-4.h-100
           img(src="@/assets/curso/temas/tema8/3.png" style="max-width: 91px" data-aos="zoom-in").mx-auto.mb-4
-          p(data-aos="fade-up") <b>Trazabilidad hacia adelante</b><br>
+          p(data-aos="fade-up") <b class="h5">Trazabilidad hacia adelante</b><br>
             | aquí se identifica a quiénes se entrega y lo que se ha vendido exactamente.
 
-    p.mb-5(data-aos="fade-up") <b>Proceso de mejora continua</b>
+    p.mb-5(data-aos="fade-up") <b class="h3">Proceso de mejora continua</b><br><br>
       | Es la mejora de los productos, servicios y procesos. Buscan la forma más práctica de mejora de la calidad y la eficiencia en las empresas. Un ejemplo, son: los sistemas de gestión de calidad, normas ISO y sistemas de evaluación ambiental, son utilizados para tener una calidad total. 
       br
       br
-      | <b>Fundamentos</b>
+      | <b class="h4">Fundamentos</b>
     
     .col-sm.mb-5.mb-sm-0.d-flex.flex-wrap.pb-5
       ol.lista-ol--cuadro.lista-ol--separador.col-12.pe-0.pe-md-5
@@ -62,7 +62,7 @@
     ImagenInfografica.color-secundario.mb-5.mx-auto(style="max-width: 505px")
       template(v-slot:imagen)
         figure
-          img(src='@/assets/curso/temas/tema8/1.png', alt='Texto que describa la imagen')
+          img(src='@/assets/curso/temas/tema8/3.svg', alt='Texto que describa la imagen')
 
       .tarjeta.color-acento-botones.p-3(x="44%" y="10.5%" numero="1" style="background-color:#F6F6F6;border-radius:0px;")
         .h5.mb-2 Cortesía
@@ -80,13 +80,13 @@
     p.mb-5(data-aos="fade-up") Uno de los elementos para la trazabilidad del servicio al cliente, es: 
       br
       br
-      | <b>La libreta de calificaciones</b><br>
+      | <b class="h4">La libreta de calificaciones</b><br><br>
       | Se utiliza para identificar y conocer los conceptos de los clientes en cuanto a su percepción sobre los bienes y servicios que adquieren. Su principal objetivo es la recolección y análisis de la información y de esta forma aplicar correctivos y mejoras en la calidad de sus servicios, metodologías, procesos, productos y estrategias que puedan satisfacer las necesidades del consumidor.
     
     ImagenInfografica.color-secundario.mb-5.mx-auto(style="max-width: 624px")
       template(v-slot:imagen)
         figure
-          img(src='@/assets/curso/temas/tema8/2.png', alt='Texto que describa la imagen')
+          img(src='@/assets/curso/temas/tema8/4.svg', alt='Texto que describa la imagen')
 
       .tarjeta.color-acento-botones.p-3(x="65%" y="28%" numero="01" style="background-color:#F6F6F6;border-radius:0px;")
         p.mb-0 Producto, procedimiento

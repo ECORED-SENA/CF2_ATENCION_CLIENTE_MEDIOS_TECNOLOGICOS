@@ -17,24 +17,24 @@
     ImagenInfografica.color-secundario.mt-5.col-md-9.m-auto
       template(v-slot:imagen)
         figure
-          img(src='@/assets/curso/temas/tema5/1.png', alt='')
+          img(src='@/assets/curso/temas/tema5/1.svg', alt='')
       .tarjeta.color-acento-botones.p-3(x="6%" y="31%" numero="01" style="background-color:#F6F6F6;border-radius:0px;")
-        .h5 Petición
+        .h4 Petición
         p Es una solicitud dirigida a la empresa para que intervenga en un asunto puntual y concreto, esta puede ser de forma escrita o verbal. Por otra parte, puede ser que realice una acción o que solicite una información específica. 
       .tarjeta.color-acento-botones.p-3(x="23%" y="72%" numero="02" style="background-color:#F6F6F6;border-radius:0px;")
-        .h5 Queja
+        .h4 Queja
         p Es la inconformidad y disgusto que presenta el usuario hacia determinado proceso y también puede ser de forma escrita o verbal.
       .tarjeta.color-acento-botones.p-3(x="40%" y="27%" numero="03" style="background-color:#F6F6F6;border-radius:0px;")
-        .h5 Reclamo
+        .h4 Reclamo
         p Se da por la mala prestación de un servicio o fallas en un producto donde el cliente realiza una demanda de forma verbal o escrita ante la insatisfacción o incumplimiento de un derecho que no se le respeto o se sintió amenazado.
       .tarjeta.color-acento-botones.p-3(x="57%" y="72%" numero="04" style="background-color:#F6F6F6;border-radius:0px;")
-        .h5 Sugerencia
+        .h4 Sugerencia
         p Son recomendaciones que realiza el cliente con el fin de mejorar el servicio, los productos ofrecidos o la gestión de la entidad. Esta puede ser de forma verbal o escrita.
       .tarjeta.color-acento-botones.p-3(x="74%" y="26%" numero="05" style="background-color:#F6F6F6;border-radius:0px;")
-        .h5 Denuncia
+        .h4 Denuncia
         p Cuando se coloca en conocimiento a una autoridad competente de una conducta posiblemente irregular, para que se realice la investigación correspondiente, ya sea de tipo penal, disciplinaria, fiscal, administrativa - sancionatoria o ético profesional. Para su denuncia es necesario indicar las circunstancias de tiempo modo y lugar, con el objetivo de generar responsabilidades. Se deberán atender o dar respuesta en un máximo de quince (15) días hábiles.
       .tarjeta.color-acento-botones.p-3(x="91%" y="72%" numero="06" style="background-color:#F6F6F6;border-radius:0px;")
-        .h5 Felicitación
+        .h4 Felicitación
         p Manifestación de agradecimiento, satisfacción hacia los productos, servicios, programas o servidores de la entidad.
 
     p.mt-5(data-aos="fade-up") Desde la parte normativa, en Colombia se parte de la Constitución Política de 1991 con:

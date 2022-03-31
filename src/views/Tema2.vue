@@ -40,7 +40,7 @@
             p Por último, según las Normas ISO 9000 (2000), es el resultado de la interfaz entre proveedor y cliente y por actividades internas del productor, con el fin de responder a las necesidades del cliente.
           .col-md-1
 
-    h5.mt-5(data-aos="fade-up") Características del servicio
+    h3.mt-5(data-aos="fade-up") Características del servicio
     p(data-aos="fade-up") A continuación se pueden ver las características del servicio, las cuales se diferencian ampliamente de los productos.
 
     .row.mt-5
@@ -63,7 +63,7 @@
           h5.mt-5(data-aos="fade-up") Inseparabilidad
           p(data-aos="fade-up") Se consideran aquellos servicios donde la producción y el consumo van de la mano. Aquí se da una interacción entre el cliente y los trabajadores de la empresa, y es por esa razón que la empresa debe tener un buen control de del servicio y de su personal.
 
-    h5.mt-5(data-aos="fade-up") Carácter perecedero
+    h3.mt-5(data-aos="fade-up") Carácter perecedero
     p(data-aos="fade-up") Los servicios son de carácter transitorio y no se permiten almacenar para vender o ser utilizados después. Aquí, el cliente percibe dos tipos de beneficios:
 
     .col-md-10.m-auto.mt-5
@@ -71,13 +71,13 @@
         .col-md-1.col-lg-1.col-sm-2.mb-2(style="place-self:center;")
           img(src="@/assets/curso/temas/tema2/8.png" data-aos="fade-down" style="max-width:90px;")
         .col-md-11.col-lg-11.col-sm-10
-          h5(data-aos="fade-up") Beneficios explícitos
+          h4(data-aos="fade-up") Beneficios explícitos
           p(data-aos="fade-up") Son aquellos que se exigen o solicitan por parte del proveedor.
       .row.mt-4
         .col-md-1.col-lg-1.col-sm-2.mb-2(style="place-self:center;")
           img(src="@/assets/curso/temas/tema2/9.png" data-aos="fade-down" style="max-width:90px;")
         .col-md-11.col-lg-11.col-sm-10
-          h5(data-aos="fade-up") Beneficios implícitos
+          h4(data-aos="fade-up") Beneficios implícitos
           p(data-aos="fade-up") Son aquellos que se requieren en la evaluación final pero que no se mencionan durante la negociación. En otras palabras, son aquellos beneficios habituales o practica comunes para la empresa.
 
     p.mt-5(data-aos="fade-up") Es importante comprender y conocer las características del servicio, las necesidades, comportamiento y forma de pensar de los clientes para poder alcanzar el éxito de cualquier negocio. Por otra parte, se debe tener presente que los clientes siempre buscan satisfacer sus necesidades mediante un servicio o producto y exigen de igual forma beneficios.
@@ -88,8 +88,8 @@
         .tarjeta.tarjeta-flip.color-primario(@mouseover="indicadorTarjetaFlip = false" style="background-color:#FFDE96;")
           .indicador--hover(v-if="indicadorTarjetaFlip")
           .tarjeta-flip__contenedor
-            .tarjeta-flip__img.p-5(style="background-color:#FFDE96;")
-              h5.mb-0(data-aos="zoom-in") Contacto con el cliente
+            .tarjeta-flip__img.p-5(style="background-color:#FFDE96;display: flex;flex-wrap: wrap;align-content: center;")
+              h4.mb-0(data-aos="zoom-in") Contacto con el cliente
               p(data-aos="zoom-in") Aquí el sistema entra en contacto de forma física con el cliente.
             .tarjeta-flip__contenido
               figure.text-center
@@ -98,8 +98,8 @@
         .tarjeta.tarjeta-flip.color-primario(@mouseover="indicadorTarjetaFlip = false" style="background-color:#FFDE96;")
           .indicador--hover(v-if="indicadorTarjetaFlip")
           .tarjeta-flip__contenedor
-            .tarjeta-flip__img.p-5(style="background-color:#FFDE96;")
-              h5.mb-0(data-aos="zoom-in") Creación del servicio
+            .tarjeta-flip__img.p-5(style="background-color:#FFDE96;display: flex;flex-wrap: wrap;align-content: center;")
+              h4.mb-0(data-aos="zoom-in") Creación del servicio
               p(data-aos="zoom-in") Es el proceso laboral que realiza la empresa para proporcionar el servicio.
             .tarjeta-flip__contenido
               figure.text-center
@@ -108,14 +108,14 @@
         .tarjeta.tarjeta-flip.color-primario(@mouseover="indicadorTarjetaFlip = false" style="background-color:#FFDE96;")
           .indicador--hover(v-if="indicadorTarjetaFlip")
           .tarjeta-flip__contenedor
-            .tarjeta-flip__img.p-5(style="background-color:#FFDE96;")
-              h5.mb-0(data-aos="zoom-in") Grado de contacto
+            .tarjeta-flip__img.p-5(style="background-color:#FFDE96;display: flex;flex-wrap: wrap;align-content: center;")
+              h4.mb-0(data-aos="zoom-in") Grado de contacto
               p(data-aos="zoom-in") Se considera el tiempo que el cliente interactúa con el sistema independientemente del tiempo que tome prestar el servicio.
             .tarjeta-flip__contenido
               figure.text-center
                 img(src="@/assets/curso/temas/tema2/12.png")
 
-    h5.mt-5(data-aos="fade-up") Tipos de servicios
+    h3.mt-5(data-aos="fade-up") Tipos de servicios
     p(data-aos="fade-up") Los tipos de servicios según Schemener, son (ver tabla 2):
 
     p.mt-5.p-2(style="border-left:4px #FCB315 solid;") #[strong Tabla 2] Tipos de servicios
@@ -153,7 +153,7 @@
     br
     .row.mt-5
       .col-md-6.mb-2
-        h4(data-aos="fade-up") Triángulo del servicio
+        h3(data-aos="fade-up") Triángulo del servicio
         p(data-aos="fade-up") Es un esquema que integra los momentos clave de los negocios y pone al cliente como centro de la estrategia. Este fue creado por Karl Albrecht en los años ochenta, su esquema integra momentos claves de un negocio para mejorar las experiencias con los clientes. Se concibe el servicio como un todo que, de forma de encadenamiento, actúa alrededor del cliente. 
         p.mt-4(data-aos="fade-up") Según Karl Albrecht, #[strong “La excelencia en el servicio se puede alcanzar mediante el triángulo del servicio, en el cual se integra una estrategia bien concebida, es decir, se crea una filosofía del servicio que se imparte al personal adecuado, que es el que tiene contacto con el público y que opera sobre unos sistemas amigables con el cliente”].
       .col-md-6
@@ -169,7 +169,7 @@
     ImagenInfografica.color-secundario.mt-5.col-md-7.m-auto
       template(v-slot:imagen)
         figure
-          img(src='@/assets/curso/temas/tema2/15.png', alt='')
+          img(src='@/assets/curso/temas/tema2/15.svg', alt='')
       .tarjeta.color-acento-botones.p-3(x="12%" y="38%" numero="06" style="background-color:#F6F6F6;border-radius:0px;")
         .h5.mb-2.mt-3 Colaboradores – Clientes
         p En este punto se le puede brindar una buena o mala experiencia al consumidor, debido a que es el punto de contacto y la relación más relevante del triángulo de servicio. 

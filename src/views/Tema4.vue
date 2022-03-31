@@ -21,7 +21,7 @@
       .col-md-10.col-sm-9(style="place-self:center;")
         p(data-aos="fade-right") Cuando se habla de confidencialidad, se hace referencia al acuerdo del cliente con la empresa acerca de cómo se manejará, administrará y difundirá la información privada, ya sea de la compra, datos personales o de identificación, entre otros. Todo esto se debe manejar desde la óptica de la ética empresarial.
 
-    h5.mt-5(data-aos="fade-up") La ética empresarial 
+    h3.mt-5(data-aos="fade-up") La ética empresarial 
     p(data-aos="fade-up") Es el estudio sobre cómo una empresa debe actuar frente a situaciones o dilemas éticos controvertidos y por esta razón cada empresa debe contar y desarrollar un manual de buenas prácticas. Estos comportamientos empresariales pueden enfocarse en: 
 
     ol.lista-ol--cuadro.lista-ol--separador.mt-5
@@ -52,25 +52,25 @@
       .tarjeta.color-acento-botones.p-5(style="background-color:#FADE9F;border-radius:0px;min-height:450px;")
         .row.justify-content-center.text-center
           img(src='@/assets/curso/temas/tema4/3.png' alt='' style="max-width:150px;display:inline;")
-        h5.mt-5 Integridad
+        h4.mt-5 Integridad
         p Se debe ser transparente y honesto en todas las acciones y comunicaciones. 
       .tarjeta.color-acento-botones.p-5(style="background-color:#A3A5F9;border-radius:0px;min-height:450px;")
         .row.justify-content-center.text-center
           img(src='@/assets/curso/temas/tema4/4.png' alt='' style="max-width:150px;display:inline;")
-        h5.mt-5 Respeto
+        h4.mt-5 Respeto
         p Se debe mostrar respeto por los empleados y clientes, así como cumplir con sus obligaciones. 
       .tarjeta.color-acento-botones.p-5(style="background-color:#FADE9F;border-radius:0px;min-height:450px;")
         .row.justify-content-center.text-center
           img(src='@/assets/curso/temas/tema4/5.png' alt='' style="max-width:150px;display:inline;")
-        h5.mt-5 Justicia
+        h4.mt-5 Justicia
         p Se debe tratar a los clientes y empleados con sentido de equidad y justicia.
       .tarjeta.color-acento-botones.p-5(style="background-color:#A3A5F9;border-radius:0px;min-height:450px;")
         .row.justify-content-center.text-center
           img(src='@/assets/curso/temas/tema4/7.png' alt='' style="max-width:150px;display:inline;")
-        h5.mt-5 Cuidado
+        h4.mt-5 Cuidado
         p Se debe mostrar empatía hacia los empleados como herramienta valiosa para el cuidado de la empresa. 
 
-    h4.mt-5(data-aos="fade-up") Políticas de seguridad
+    h3.mt-5(data-aos="fade-up") Políticas de seguridad
     p(data-aos="fade-up") Toda empresa que maneje información debe establecer políticas de seguridad y manejo de la misma. La información deberá estar siempre protegida sin importar la forma de ser compartida, comunicada o almacenada.
     p.mt-4(data-aos="fade-up") Es importante tener presente, que la información puede existir de diversas formas: impresa o escrita en papel, de forma electrónica, por medio de correos electrónicos, mediante proyecciones o de forma oral en alguna conversación. Esta se debe proteger con el objetivo de evitar amenazas que afecten la continuidad del negocio, genere riesgos empresariales, o que no permitan maximizar las inversiones y oportunidades del negocio.
 
@@ -115,7 +115,7 @@
       table(style="table-layout:auto;")
         thead
           tr
-            th.h5(colspan="2") Confidencialidad, uso y manejo de datos personales en Colombia
+            th.h4(colspan="2") Confidencialidad, uso y manejo de datos personales en Colombia
         tbody
           tr
             td.text-center(style="width:35%;") Artículo 15. Constitución Política

@@ -15,7 +15,7 @@
     ImagenInfografica.color-secundario.mt-5.col-md-7.m-auto
       template(v-slot:imagen)
         figure
-          img(src='@/assets/curso/temas/tema6/6.png', alt='')
+          img(src='@/assets/curso/temas/tema6/6.svg', alt='')
       .tarjeta.color-acento-botones.p-3(x="65%" y="41%" numero="01" style="background-color:#F6F6F6;border-radius:0px;")
         p.mb-0 La perspectiva del cliente es fundamental para conocer la calidad del servicio.
       .tarjeta.color-acento-botones.p-3(x="1%" y="61%" numero="02" style="background-color:#F6F6F6;border-radius:0px;")
@@ -39,7 +39,7 @@
           .indicador--hover(v-if="indicadorTarjetaSlide")
           .tarjeta-slide__contenedor
             .tarjeta-slide__contenido.p-4.p-xl-4
-              p(style="min-height: 288px;display: grid;align-content: center;").mb-0 <b>La observación</b> 
+              p(style="min-height: 288px;display: grid;align-content: center;").mb-0 <b class="h4">La observación</b> 
                 | Una de las técnicas más sencillas, esta permite monitorear el servicio y la participación del consumidor, después se puede hacer una retroalimentación que permita observar los aspectos a mejorar. 
             .tarjeta-slide__img(
               :style="{'background-image': `url(${require('@/assets/curso/temas/tema6/1.svg')})`}"
@@ -50,7 +50,7 @@
         .tarjeta.tarjeta-slide.arriba.color-primario(style="background-color:#A3A5F9;border-radius:0px;")
           .tarjeta-slide__contenedor
             .tarjeta-slide__contenido.p-4.px-xl-3.py-xl-4
-              p(style="min-height: 288px;display: grid;align-content: center;").mb-0 <b>Estudio #[em Mistery Shopper]</b>
+              p(style="min-height: 288px;display: grid;align-content: center;").mb-0 <b class="h4">Estudio #[em Mistery Shopper]</b>
                 | Consiste en contratar a alguien que visite los puntos de venta y experimente la función del cliente, con el objetivo evaluar el servicio y aspectos de cordialidad como amabilidad, saludo, tiempo de respuesta o solución de problemas, etc. Esto permite evaluar el desempeño de los trabajadores o encargados del servicio al cliente.
             .tarjeta-slide__img(
               :style="{'background-image': `url(${require('@/assets/curso/temas/tema6/2.svg')})`}"
@@ -61,7 +61,7 @@
         .tarjeta.tarjeta-slide.arriba.color-acento-contenido(style="background-color:#FADE9F;border-radius:0px;")
           .tarjeta-slide__contenedor
             .tarjeta-slide__contenido.p-4.px-xl-3.py-xl-4
-              p(style="min-height: 288px;display: grid;align-content: center;").mb-0 <b>Monitorear canales de comunicación</b>
+              p(style="min-height: 288px;display: grid;align-content: center;").mb-0 <b class="h4">Monitorear canales de comunicación</b>
                 | Aquí es importante monitorear la evaluación del servicio desde que el cliente realiza el primer contacto y hasta la postventa. Estos canales de comunicación pueden ser, correos electrónicos, comentarios de redes sociales, llamadas, buzón de mensajería, etc.
             .tarjeta-slide__img(
               :style="{'background-image': `url(${require('@/assets/curso/temas/tema6/3.svg')})`}"
@@ -72,7 +72,7 @@
         .tarjeta.tarjeta-slide.arriba.color-primario(style="background-color:#A3A5F9;border-radius:0px;")
           .tarjeta-slide__contenedor
             .tarjeta-slide__contenido.p-4.px-xl-3.py-xl-4
-              p(style="min-height: 288px;display: grid;align-content: center;").mb-0 <b>Análisis financiero</b>
+              p(style="min-height: 288px;display: grid;align-content: center;").mb-0 <b class="h4">Análisis financiero</b>
                 | Aquí se analizan las ventas, visitas de clientes, quejas, número de consultas, entre otros. Que puedan ayudar a obtener una imagen de rendimiento general. 
             .tarjeta-slide__img(
               :style="{'background-image': `url(${require('@/assets/curso/temas/tema6/4.svg')})`}"
@@ -83,7 +83,7 @@
         .tarjeta.tarjeta-slide.arriba.color-acento-contenido(style="background-color:#FADE9F;border-radius:0px;")
           .tarjeta-slide__contenedor
             .tarjeta-slide__contenido.p-4.p-xl-4
-              p(style="min-height: 288px;display: grid;align-content: center;").mb-0 <b>Comentarios de clientes</b> 
+              p(style="min-height: 288px;display: grid;align-content: center;").mb-0 <b class="h4">Comentarios de clientes</b> 
                 | La recolección de estos datos permite identificar de manera efectiva, las áreas problemáticas y los problemas individuales de los clientes. Aquí se puede recolectar información por medio de diferentes instrumentos como: la encuesta, llamadas, buzón de sugerencias, entre otros. 
             .tarjeta-slide__img(
               :style="{'background-image': `url(${require('@/assets/curso/temas/tema6/5.svg')})`}"
@@ -94,14 +94,14 @@
     .d-flex.flex-wrap.mt-4
       .col-12.col-md-6(style="background-color: #FFDE96")
         .d-flex.flex-wrap.justify-content-center.align-items-center
-          p.mb-0.fw-bold.py-3(data-aos="zoom-in") Buzón de sugerencias
+          p.mb-0.fw-bold.py-3.h4(data-aos="zoom-in") Buzón de sugerencias
         div
           img(src="@/assets/curso/temas/tema6/7.png" data-aos="zoom-in").w-100
         div
           p.mb-0.p-5(data-aos="zoom-in") Las empresas colocan en un lugar estratégico un buzón con formularios donde los clientes puedan escribir sus comentarios, peticiones, reclamos, sugerencias, quejas, denuncias o felicitaciones. Este método es de bajo costo y rápido, por otra parte; su desventaja radica en la baja tasa de participación, sin embargo, hay muchas empresas que han adoptado este buzón de sugerencias para dar seguimiento a la satisfacción de sus clientes.  
       .col-12.col-md-6(style="background-color: #A4A3FF")
         .d-flex.flex-wrap.justify-content-center.align-items-center
-          p.mb-0.fw-bold.py-3(data-aos="zoom-in") Encuestas
+          p.mb-0.fw-bold.py-3.h4(data-aos="zoom-in") Encuestas
         div
           img(src="@/assets/curso/temas/tema6/8.png" data-aos="zoom-in").w-100
         div

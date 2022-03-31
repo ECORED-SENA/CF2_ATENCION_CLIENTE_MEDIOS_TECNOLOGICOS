@@ -25,7 +25,7 @@
     ImagenInfografica.color-secundario.mt-4.col-md-9.m-auto
       template(v-slot:imagen)
         figure
-          img(src='@/assets/curso/temas/tema1/3.png', alt='')
+          img(src='@/assets/curso/temas/tema1/3.svg', alt='')
       .tarjeta.color-acento-botones.p-3(x="48%" y="7%" numero="01" style="background-color:#F6F6F6;border-radius:0px;")
         div(style="background-color:#FFDE96;width:30%;height:7px;")
         .h5.mb-2.mt-3 Manual de procedimientos
@@ -51,7 +51,7 @@
         .h5.mb-2.mt-3 Manual de usuario
         p Contiene un conjunto de informaciones, instrucciones y advertencias relacionadas con el uso de un determinado producto o servicio.
 
-    h5.mt-5(data-aos="fade-up") Manual de procedimiento
+    h3.mt-5(data-aos="fade-up") Manual de procedimiento
     p(data-aos="fade-up") Es una guía con el objetivo de establecer la secuencia de pasos para que una empresa, organización o área consiga realizar sus funciones. Por otra parte, permite establecer el tiempo, orden, reglas, políticas y responsabilidades de actividades a desempeñar. Esto permitirá introducir a las personas de forma rápida para entender y realizar las actividades.
     p.mt-4(data-aos="fade-up") Es importante resaltar que es necesario generar estrategias para la elaboración e implementación, debido a que una mala implementación puede generar documentos que con el tiempo nadie utilizará, actualizarán y quedarán guardados. Es por esta razón, que se iniciará por definir algunos conceptos importantes para la elaboración de un buen manual de procedimientos:
 
