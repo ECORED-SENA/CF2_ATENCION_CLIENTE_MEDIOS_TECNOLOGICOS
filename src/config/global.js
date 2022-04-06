@@ -3,7 +3,7 @@ export default {
     componenteFormativo:
       'Protocolos, políticas y <br> evaluación de la atención y servicio al cliente',
     descripcionCurso:
-      'Las actividades diseñadas en este componente de formación permiten identificar y conocer los protocolos, políticas y evaluación de la atención y servicio al cliente. Para su desarrollo y apropiación, se estudiará el manual de funciones y procedimientos, servicio, ciclo del servicio, confidencialidad de la información, PQRSDF, evaluación del servicio, factores claves y trazabilidad del servicio.',
+      'Las actividades diseñadas en este componente formativo permiten identificar y conocer los protocolos, políticas y evaluación de la atención y servicio al cliente. Para su desarrollo y apropiación, se estudiará el manual de funciones y procedimientos, servicio, ciclo del servicio, confidencialidad de la información, PQRSDF, evaluación del servicio, factores claves y trazabilidad del servicio.',
     imagenBannerPrincipal: '',
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.svg'),
   },

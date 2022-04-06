@@ -61,7 +61,7 @@
           figure
             img.m-auto(src="@/assets/curso/temas/tema2/7.png" data-aos="zoom-in" style="max-width:100px;")
           h5.mt-5(data-aos="fade-up") Inseparabilidad
-          p(data-aos="fade-up") Se consideran aquellos servicios donde la producción y el consumo van de la mano. Aquí se da una interacción entre el cliente y los trabajadores de la empresa, y es por esa razón que la empresa debe tener un buen control de del servicio y de su personal.
+          p(data-aos="fade-up") Se consideran aquellos servicios donde la producción y el consumo van de la mano. Aquí se da una interacción entre el cliente y los trabajadores de la empresa, y es por esa razón que la empresa debe tener un buen control del servicio y de su personal.
 
     h3.mt-5(data-aos="fade-up") Carácter perecedero
     p(data-aos="fade-up") Los servicios son de carácter transitorio y no se permiten almacenar para vender o ser utilizados después. Aquí, el cliente percibe dos tipos de beneficios:

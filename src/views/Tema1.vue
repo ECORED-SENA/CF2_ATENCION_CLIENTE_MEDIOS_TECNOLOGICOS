@@ -10,7 +10,7 @@
     .row
       .col-md-6.mb-2
         p(data-aos="fade-left") Las organizaciones a través del tiempo se han dado a la tarea de indicar a sus participantes la forma en la cual deben aplicar y para ello han utilizado como principal instrumento el manual. Pero antes de iniciar por explicar las funciones y procedimientos, es importante conocer el concepto de manual.
-        p.mt-4(data-aos="fade-left")  Se puede entender un manual, como los #[strong instrumentos que apoyan el funcionamiento de la empresa, porque contienen información sobre de las bases jurídicas, facultades, estructura orgánica, objetivos, políticas, responsabilidad, funciones y actividades de la misma]. De lo anterior se puede decir que el objetivo es proveer los lineamientos, reglas o normas de cómo hacer uso de algo de una forma clara, sistemática y metódica.
+        p.mt-4(data-aos="fade-left")  Se puede entender un manual, como los #[strong instrumentos que apoyan el funcionamiento de la empresa, porque contienen información sobre las bases jurídicas, facultades, estructura orgánica, objetivos, políticas, responsabilidad, funciones y actividades de la misma]. De lo anterior se puede decir que el objetivo es proveer los lineamientos, reglas o normas de cómo hacer uso de algo de una forma clara, sistemática y metódica.
       .col-md-6
         img(src="@/assets/curso/temas/tema1/1.png" data-aos="fade-right")
 
@@ -37,7 +37,7 @@
       .tarjeta.color-acento-botones.p-3(x="90%" y="70%" numero="03" style="background-color:#F6F6F6;border-radius:0px;")
         div(style="background-color:#A4A3FF;width:30%;height:7px;")
         .h5.mb-2.mt-3 Manual de operaciones
-        p Es aquel que se encarga de forma resumida detallar en forma general el manejo de una empresa. Dan un detalle de cómo es estructurada y de los diferentes roles y funciones que en ella se llevan a cabo y se desempeñan en cada departamento.
+        p Es aquel que se encarga de manera resumida detallar en forma general el manejo de una empresa. Dan un detalle de cómo está estructurada y de los diferentes roles y funciones que en ella se llevan a cabo y se desempeñan en cada departamento.
       .tarjeta.color-acento-botones.p-3(x="48%" y="92%" numero="04" style="background-color:#F6F6F6;border-radius:0px;")
         div(style="background-color:#7F79FB;width:30%;height:7px;")
         .h5.mb-2.mt-3 Manual de calidad
@@ -65,9 +65,9 @@
                 img(src="@/assets/curso/temas/tema1/5.png" style="display:inline;max-width:100px;" data-aos="fade-up")
               h5.mb-0.mt-4(data-aos="zoom-in") Procedimiento
               p(data-aos="zoom-in") Es una serie de pasos bien definidos para conseguir un objetivo específico. Estos pueden ser de tipo: administrativo, judiciales, médicos, informáticos, de actuación, etc.  
-            .tarjeta-flip__contenido
+            .tarjeta-flip__contenido(style="background-color:transparent;")
               figure.text-center
-                img(src="@/assets/curso/temas/tema1/4.png")
+                img.pb-4.pt-4(src="@/assets/curso/temas/tema1/4.png")
       .col-sm-6.col-xl-6.col-md-6.col-lg-6.mb-4.mb-xl-0
         .tarjeta.tarjeta-flip.color-primario(@mouseover="indicadorTarjetaFlip = false" style="background-color:#FFDE96;")
           .indicador--hover(v-if="indicadorTarjetaFlip")
@@ -77,9 +77,9 @@
                 img(src="@/assets/curso/temas/tema1/7.png" style="display:inline;max-width:100px;" data-aos="fade-up")
               h5.mb-0.mt-4(data-aos="zoom-in") Proceso
               p(data-aos="zoom-in") Es un conjunto de actividades mutuamente relacionadas que, al interactuar juntas, convierten los elementos de entrada en resultados. #[br] #[br] La diferencia radica en que un proceso puede seguir uno o más procedimientos. 
-            .tarjeta-flip__contenido
+            .tarjeta-flip__contenido(style="background-color:transparent;")
               figure.text-center
-                img(src="@/assets/curso/temas/tema1/6.png")
+                img.pb-4.pt-4(src="@/assets/curso/temas/tema1/6.png")
 
     p.mt-5(data-aos="fade-up") Por ejemplo, si tengo hambre, podría ordenar comida a domicilio. Este es un proceso que implica actividades como:
 

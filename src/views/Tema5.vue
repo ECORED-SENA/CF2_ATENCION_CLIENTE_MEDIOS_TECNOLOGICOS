@@ -26,7 +26,7 @@
         p Es la inconformidad y disgusto que presenta el usuario hacia determinado proceso y también puede ser de forma escrita o verbal.
       .tarjeta.color-acento-botones.p-3(x="40%" y="27%" numero="03" style="background-color:#F6F6F6;border-radius:0px;")
         .h4 Reclamo
-        p Se da por la mala prestación de un servicio o fallas en un producto donde el cliente realiza una demanda de forma verbal o escrita ante la insatisfacción o incumplimiento de un derecho que no se le respeto o se sintió amenazado.
+        p Se da por la mala prestación de un servicio o fallas en un producto donde el cliente realiza una demanda de forma verbal o escrita ante la insatisfacción o incumplimiento de un derecho que no se le respetó o se sintió amenazado.
       .tarjeta.color-acento-botones.p-3(x="57%" y="72%" numero="04" style="background-color:#F6F6F6;border-radius:0px;")
         .h4 Sugerencia
         p Son recomendaciones que realiza el cliente con el fin de mejorar el servicio, los productos ofrecidos o la gestión de la entidad. Esta puede ser de forma verbal o escrita.
@@ -43,35 +43,35 @@
       li(data-aos="fade-up")
         .lista-ol--cuadro__vineta
           span 1
-        p #[strong Artículo 23] Toda persona tiene derecho a presentar peticiones respetuosas a las autoridades por motivos de interés general o particular y a obtener pronta resolución. El legislador podrá reglamentar su ejercicio ante organizaciones privadas para garantizar los derechos fundamentales.
+        p #[strong Artículo 23.] Toda persona tiene derecho a presentar peticiones respetuosas a las autoridades por motivos de interés general o particular y a obtener pronta resolución. El legislador podrá reglamentar su ejercicio ante organizaciones privadas para garantizar los derechos fundamentales.
       li(data-aos="fade-up")
         .lista-ol--cuadro__vineta
           span 2
-        p #[strong Ley Estatutaria 1757 de 2015] Por la cual se dictan disposiciones en materia de promoción y protección del derecho a la participación democrática.
+        p #[strong Ley Estatutaria 1757 de 2015.] Por la cual se dictan disposiciones en materia de promoción y protección del derecho a la participación democrática.
       li(data-aos="fade-up")
         .lista-ol--cuadro__vineta
           span 3
-        p #[strong Ley 1755 de 2015] Por medio de la cual se regula el derecho fundamental de petición y sustituye un título del código de procedimiento administrativo y de lo contencioso administrativo.
+        p #[strong Ley 1755 de 2015.] Por medio de la cual se regula el derecho fundamental de petición y sustituye un título del código de procedimiento administrativo y de lo contencioso administrativo.
       li(data-aos="fade-up")
         .lista-ol--cuadro__vineta
           span 4
-        p #[strong Ley 1437 de 2011] Código de procedimiento administrativo y de lo contencioso administrativo.
+        p #[strong Ley 1437 de 2011.] Código de procedimiento administrativo y de lo contencioso administrativo.
       li(data-aos="fade-up")
         .lista-ol--cuadro__vineta
           span 5
-        p #[strong Ley 1266 de diciembre de 2008] Por la cual se dictan las disposiciones generales del Habeas Data y se regula el manejo de la información contenida en bases de datos personales.
+        p #[strong Ley 1266 de diciembre de 2008.] Por la cual se dictan las disposiciones generales del Habeas Data y se regula el manejo de la información contenida en bases de datos personales.
       li(data-aos="fade-up")
         .lista-ol--cuadro__vineta
           span 6
-        p #[strong Decreto Ley 019 de 2012] Por el cual se dictan normas para suprimir o reformar regulaciones, procedimientos y trámites innecesarios existentes en la administración pública.
+        p #[strong Decreto Ley 019 de 2012.] Por el cual se dictan normas para suprimir o reformar regulaciones, procedimientos y trámites innecesarios existentes en la administración pública.
       li(data-aos="fade-up")
         .lista-ol--cuadro__vineta
           span 7
-        p #[strong Decreto 2623 del 2009] Por el cual se crea el Sistema Nacional de Servicio al Ciudadano.
+        p #[strong Decreto 2623 del 2009.] Por el cual se crea el Sistema Nacional de Servicio al Ciudadano.
       li(data-aos="fade-up")
         .lista-ol--cuadro__vineta
           span 8
-        p #[strong Resolución 6451 del 2018] Por el cual se reglamenta el trámite interno de peticiones, quejas, reclamos, sugerencias, denuncias y felicitaciones presentadas ante el Ministerio de Relaciones Exteriores y su Fondo Rotatorio y deroga la resolución 2278 de 2013.
+        p #[strong Resolución 6451 del 2018.] Por el cual se reglamenta el trámite interno de peticiones, quejas, reclamos, sugerencias, denuncias y felicitaciones presentadas ante el Ministerio de Relaciones Exteriores y su Fondo Rotatorio y deroga la resolución 2278 de 2013.
       li(data-aos="fade-up")
         .lista-ol--cuadro__vineta
           span 9
@@ -81,9 +81,9 @@
       .col-md-2.col-sm-3.text-center(style="place-self:center;")
         img(src="@/assets/curso/temas/tema4/6.png" data-aos="fade-left" style="display:inline;max-width:100px;")
       .col-md-7.col-lg-7.col-sm-6(style="place-self:center;")
-        p(data-aos="fade-up") Para ampliar un poco más sobre la normativa, se pueden consultar los siguientes documentos: #[strong Criterios Normativos para PQRSDF. ¡Pilas con las PQRSDF!]
+        p(data-aos="fade-up") Para ampliar un poco más sobre la normativa, se pueden consultar el siguiente documento: #[strong Criterios Normativos para PQRSDF. ¡Pilas con las PQRSDF!]
       .col-md-3.col-lg-3.col-sm-3.text-center(style="place-self:center;")
-        a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/CRITERIOS_NORMATIVOS_PARA_PQRSD_V2.pdf')" target="_blank" type="application/pdf" data-aos="fade-up")
+        a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/CRITERIOS_NORMATIVOS_PARA_PQRSDF_V2.pdf')" target="_blank" type="application/pdf" data-aos="fade-up")
           span Descargar
           i.fas.fa-file-download
 

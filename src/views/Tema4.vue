@@ -175,7 +175,7 @@
       .col-md-7.col-lg-7.col-sm-6(style="place-self:center;")
         p(data-aos="fade-up") Para ampliar un poco más sobre la normativa, se puede consultar el siguiente documento: normativa protección de datos personales en Colombia
       .col-md-3.col-lg-3.col-sm-3.text-center(style="place-self:center;")
-        a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/NORMATIVA_PROTECCIÓN_DE_DATOS_PERSONALES.pdf')" target="_blank" type="application/pdf" data-aos="fade-up")
+        a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/NORMATIVA_PROTECCION_DE_DATOS_PERSONALES.pdf')" target="_blank" type="application/pdf" data-aos="fade-up")
           span Descargar
           i.fas.fa-file-download
 

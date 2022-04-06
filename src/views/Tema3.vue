@@ -16,7 +16,7 @@
         img(src="@/assets/curso/temas/tema3/1.png" data-aos="fade-right")
 
     TabsB.color-acento-contenido.mt-5
-      .py-4.py-md-5(titulo="Paso I: etapa en la que se encuentra el cliente" :icono="require('@/assets/curso/temas/tema3/2.png')")
+      .py-4.py-md-5(titulo="Paso 1: etapa en la que se encuentra el cliente" :icono="require('@/assets/curso/temas/tema3/2.png')")
         .p-3
           h5 Etapa en la que se encuentra el cliente
           p Aquí se debe segmentar la base de clientes, agruparlos dependiendo de la etapa: de descubrimiento, evaluación, compra, experiencia, vínculo o promoción del servicio. Por otra parte, es importante tomar el tiempo que duran los clientes en cada una de las etapas para tener mayor información e indicadores en el futuro.
